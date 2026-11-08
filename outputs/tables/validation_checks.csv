@@ -1,0 +1,5 @@
+check,passed,detail
+no look-ahead (truncated rebuild),True,"361 origins, 85,082 feature values, max abs diff 0.0e+00"
+training uses only published first estimates,True,"361 origins, violations: 0"
+first estimates match ONS headlines,True,2008Q4 -1.5 vs -1.5; 2009Q1 -1.9 vs -1.9; 2016Q3 +0.5 vs +0.5; 2022Q3 -0.2 vs -0.2; 2024Q4 +0.1 vs +0.1; 2025Q1 +0.7 vs +0.7; 2025Q2 +0.3 vs +0.3; 2025Q3 +0.1 vs +0.1
+group lasso KKT conditions,True,"2019Q4 h=2, 3 penalties: max relative stationarity gap 9.9e-08, max zero-group excess 0.0e+00"

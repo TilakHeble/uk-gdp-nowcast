@@ -1,0 +1,235 @@
+quarter,h,model,group,contribution
+2026Q4,0,AR,GDP,0.008944194646052034
+2026Q4,0,AR,Labour market,0.0
+2026Q4,0,AR,Manufacturing detail (latest vintage),0.0
+2026Q4,0,AR,Money and markets,0.0
+2026Q4,0,AR,Output (latest vintage),0.0
+2026Q4,0,AR,Output (real time),0.0
+2026Q4,0,AR,Prices,0.0
+2026Q4,0,AR,Retail,0.0
+2026Q4,0,AR,Trade,0.0
+2026Q4,0,Bridge,GDP,-0.0009714295420642247
+2026Q4,0,Bridge,Labour market,0.0
+2026Q4,0,Bridge,Manufacturing detail (latest vintage),0.0
+2026Q4,0,Bridge,Money and markets,0.0
+2026Q4,0,Bridge,Output (latest vintage),0.0
+2026Q4,0,Bridge,Output (real time),0.12316373783092141
+2026Q4,0,Bridge,Prices,0.0
+2026Q4,0,Bridge,Retail,0.0
+2026Q4,0,Bridge,Trade,0.0
+2026Q4,0,Ridge,GDP,0.0018971607001366615
+2026Q4,0,Ridge,Labour market,-0.0026592178410642705
+2026Q4,0,Ridge,Manufacturing detail (latest vintage),0.0
+2026Q4,0,Ridge,Money and markets,-0.019593952499028792
+2026Q4,0,Ridge,Output (latest vintage),0.0
+2026Q4,0,Ridge,Output (real time),0.046963618236146
+2026Q4,0,Ridge,Prices,0.01710541439412986
+2026Q4,0,Ridge,Retail,0.00473414489868575
+2026Q4,0,Ridge,Trade,-0.009568463353718594
+2026Q4,0,Lasso,GDP,0.0
+2026Q4,0,Lasso,Labour market,-0.061521250421736215
+2026Q4,0,Lasso,Manufacturing detail (latest vintage),0.0
+2026Q4,0,Lasso,Money and markets,0.002954604404775057
+2026Q4,0,Lasso,Output (latest vintage),0.0
+2026Q4,0,Lasso,Output (real time),-0.0079638881141968
+2026Q4,0,Lasso,Prices,0.0017631727174718947
+2026Q4,0,Lasso,Retail,0.0
+2026Q4,0,Lasso,Trade,0.0
+2026Q4,0,Elastic net,GDP,0.0015704528192056967
+2026Q4,0,Elastic net,Labour market,-0.06753563205678186
+2026Q4,0,Elastic net,Manufacturing detail (latest vintage),0.0
+2026Q4,0,Elastic net,Money and markets,-0.06164787238714308
+2026Q4,0,Elastic net,Output (latest vintage),0.0
+2026Q4,0,Elastic net,Output (real time),0.024178244789898152
+2026Q4,0,Elastic net,Prices,-0.012527464344051015
+2026Q4,0,Elastic net,Retail,0.013295554520320843
+2026Q4,0,Elastic net,Trade,-0.029324559297448913
+2026Q4,0,Adaptive lasso,GDP,0.0
+2026Q4,0,Adaptive lasso,Labour market,-0.07428135578534015
+2026Q4,0,Adaptive lasso,Manufacturing detail (latest vintage),0.0
+2026Q4,0,Adaptive lasso,Money and markets,-0.14173411126257515
+2026Q4,0,Adaptive lasso,Output (latest vintage),0.0
+2026Q4,0,Adaptive lasso,Output (real time),0.012505426447590534
+2026Q4,0,Adaptive lasso,Prices,-0.07036241370294959
+2026Q4,0,Adaptive lasso,Retail,0.002848286069860791
+2026Q4,0,Adaptive lasso,Trade,-0.056327109588914646
+2026Q4,0,Group lasso,GDP,0.0
+2026Q4,0,Group lasso,Labour market,-0.08496055687657218
+2026Q4,0,Group lasso,Manufacturing detail (latest vintage),0.0
+2026Q4,0,Group lasso,Money and markets,-0.030855014333414123
+2026Q4,0,Group lasso,Output (latest vintage),0.0
+2026Q4,0,Group lasso,Output (real time),-0.02392027357550995
+2026Q4,0,Group lasso,Prices,-0.10104251236005239
+2026Q4,0,Group lasso,Retail,0.0
+2026Q4,0,Group lasso,Trade,-0.024442828187762434
+2026Q4,0,Factor,GDP,-0.00044709029661823543
+2026Q4,0,Factor,Labour market,-0.0043442302140519065
+2026Q4,0,Factor,Manufacturing detail (latest vintage),0.0
+2026Q4,0,Factor,Money and markets,-0.005088221390065724
+2026Q4,0,Factor,Output (latest vintage),0.0
+2026Q4,0,Factor,Output (real time),0.011412608208876782
+2026Q4,0,Factor,Prices,0.016596365275535492
+2026Q4,0,Factor,Retail,0.008113133107701512
+2026Q4,0,Factor,Trade,-0.02226447901063511
+2026Q4,0,Bridge + ridge,GDP,-0.0009639321055979726
+2026Q4,0,Bridge + ridge,Labour market,0.0019914259846223596
+2026Q4,0,Bridge + ridge,Manufacturing detail (latest vintage),0.0
+2026Q4,0,Bridge + ridge,Money and markets,0.003445172597101008
+2026Q4,0,Bridge + ridge,Output (latest vintage),0.0
+2026Q4,0,Bridge + ridge,Output (real time),0.12161686777623326
+2026Q4,0,Bridge + ridge,Prices,0.0014041591926941188
+2026Q4,0,Bridge + ridge,Retail,-0.0019334525275329628
+2026Q4,0,Bridge + ridge,Trade,-0.010409390230881001
+2026Q4,0,Bridge + lasso,GDP,-0.0009714295420642247
+2026Q4,0,Bridge + lasso,Labour market,0.0
+2026Q4,0,Bridge + lasso,Manufacturing detail (latest vintage),0.0
+2026Q4,0,Bridge + lasso,Money and markets,0.0
+2026Q4,0,Bridge + lasso,Output (latest vintage),0.0
+2026Q4,0,Bridge + lasso,Output (real time),0.12316373783092141
+2026Q4,0,Bridge + lasso,Prices,0.0
+2026Q4,0,Bridge + lasso,Retail,0.0
+2026Q4,0,Bridge + lasso,Trade,0.0
+2026Q4,0,Bridge + elastic net,GDP,-0.0009714295420642247
+2026Q4,0,Bridge + elastic net,Labour market,0.0
+2026Q4,0,Bridge + elastic net,Manufacturing detail (latest vintage),0.0
+2026Q4,0,Bridge + elastic net,Money and markets,0.0
+2026Q4,0,Bridge + elastic net,Output (latest vintage),0.0
+2026Q4,0,Bridge + elastic net,Output (real time),0.12316373783092141
+2026Q4,0,Bridge + elastic net,Prices,0.0
+2026Q4,0,Bridge + elastic net,Retail,0.0
+2026Q4,0,Bridge + elastic net,Trade,0.0
+2026Q4,0,Bridge + group lasso,GDP,-0.0009714295420642247
+2026Q4,0,Bridge + group lasso,Labour market,0.0
+2026Q4,0,Bridge + group lasso,Manufacturing detail (latest vintage),0.0
+2026Q4,0,Bridge + group lasso,Money and markets,-1.2745605655529622e-18
+2026Q4,0,Bridge + group lasso,Output (latest vintage),0.0
+2026Q4,0,Bridge + group lasso,Output (real time),0.12316373783092141
+2026Q4,0,Bridge + group lasso,Prices,0.0
+2026Q4,0,Bridge + group lasso,Retail,0.0
+2026Q4,0,Bridge + group lasso,Trade,0.0
+2026Q4,0,Bridge + factors,GDP,-0.0004523015105230892
+2026Q4,0,Bridge + factors,Labour market,-0.0005289792385536819
+2026Q4,0,Bridge + factors,Manufacturing detail (latest vintage),0.0
+2026Q4,0,Bridge + factors,Money and markets,-0.006714026522226128
+2026Q4,0,Bridge + factors,Output (latest vintage),0.0
+2026Q4,0,Bridge + factors,Output (real time),0.12162697732667
+2026Q4,0,Bridge + factors,Prices,-3.0932854927735384e-05
+2026Q4,0,Bridge + factors,Retail,0.0037795862934272674
+2026Q4,0,Bridge + factors,Trade,-0.002661400526193513
+2026Q3,3,AR,GDP,0.07317668580834794
+2026Q3,3,AR,Labour market,0.0
+2026Q3,3,AR,Manufacturing detail (latest vintage),0.0
+2026Q3,3,AR,Money and markets,0.0
+2026Q3,3,AR,Output (latest vintage),0.0
+2026Q3,3,AR,Output (real time),0.0
+2026Q3,3,AR,Prices,0.0
+2026Q3,3,AR,Retail,0.0
+2026Q3,3,AR,Trade,0.0
+2026Q3,3,Bridge,GDP,0.04049424291345041
+2026Q3,3,Bridge,Labour market,0.0
+2026Q3,3,Bridge,Manufacturing detail (latest vintage),0.0
+2026Q3,3,Bridge,Money and markets,0.0
+2026Q3,3,Bridge,Output (latest vintage),0.0
+2026Q3,3,Bridge,Output (real time),0.24708289722456755
+2026Q3,3,Bridge,Prices,0.0
+2026Q3,3,Bridge,Retail,0.0
+2026Q3,3,Bridge,Trade,0.0
+2026Q3,3,Ridge,GDP,0.010195329459050096
+2026Q3,3,Ridge,Labour market,-0.13801956061405077
+2026Q3,3,Ridge,Manufacturing detail (latest vintage),0.0
+2026Q3,3,Ridge,Money and markets,-0.08041905256142673
+2026Q3,3,Ridge,Output (latest vintage),0.0
+2026Q3,3,Ridge,Output (real time),0.13788007984508338
+2026Q3,3,Ridge,Prices,-0.007111603004710591
+2026Q3,3,Ridge,Retail,0.028287431626152743
+2026Q3,3,Ridge,Trade,-0.02626521642332789
+2026Q3,3,Lasso,GDP,0.027268828577701326
+2026Q3,3,Lasso,Labour market,-0.027277932795101774
+2026Q3,3,Lasso,Manufacturing detail (latest vintage),0.0
+2026Q3,3,Lasso,Money and markets,-0.05212049382049894
+2026Q3,3,Lasso,Output (latest vintage),0.0
+2026Q3,3,Lasso,Output (real time),0.035079281604742024
+2026Q3,3,Lasso,Prices,0.073147795961285
+2026Q3,3,Lasso,Retail,0.03435521576183716
+2026Q3,3,Lasso,Trade,-0.018552091030729453
+2026Q3,3,Elastic net,GDP,0.015470033229744558
+2026Q3,3,Elastic net,Labour market,-0.07036005863488438
+2026Q3,3,Elastic net,Manufacturing detail (latest vintage),0.0
+2026Q3,3,Elastic net,Money and markets,-0.05245762197046489
+2026Q3,3,Elastic net,Output (latest vintage),0.0
+2026Q3,3,Elastic net,Output (real time),0.11427322587504567
+2026Q3,3,Elastic net,Prices,0.046377337552851707
+2026Q3,3,Elastic net,Retail,0.043446388580996205
+2026Q3,3,Elastic net,Trade,-0.013490946082291991
+2026Q3,3,Adaptive lasso,GDP,0.01786901010817799
+2026Q3,3,Adaptive lasso,Labour market,-0.08120220517333276
+2026Q3,3,Adaptive lasso,Manufacturing detail (latest vintage),0.0
+2026Q3,3,Adaptive lasso,Money and markets,-0.039791493776940925
+2026Q3,3,Adaptive lasso,Output (latest vintage),0.0
+2026Q3,3,Adaptive lasso,Output (real time),0.13414379583764094
+2026Q3,3,Adaptive lasso,Prices,0.04832529632160243
+2026Q3,3,Adaptive lasso,Retail,0.007574723053261928
+2026Q3,3,Adaptive lasso,Trade,0.02164157005530408
+2026Q3,3,Group lasso,GDP,0.015754613611153382
+2026Q3,3,Group lasso,Labour market,-0.009835099008237858
+2026Q3,3,Group lasso,Manufacturing detail (latest vintage),0.0
+2026Q3,3,Group lasso,Money and markets,-0.05114693092970869
+2026Q3,3,Group lasso,Output (latest vintage),0.0
+2026Q3,3,Group lasso,Output (real time),0.17533124192965063
+2026Q3,3,Group lasso,Prices,-0.006600792307368208
+2026Q3,3,Group lasso,Retail,0.04784433970588947
+2026Q3,3,Group lasso,Trade,-0.003601539221784775
+2026Q3,3,Factor,GDP,0.03869097396383171
+2026Q3,3,Factor,Labour market,0.009804891402343544
+2026Q3,3,Factor,Manufacturing detail (latest vintage),0.0
+2026Q3,3,Factor,Money and markets,0.026828113626185278
+2026Q3,3,Factor,Output (latest vintage),0.0
+2026Q3,3,Factor,Output (real time),0.010449024172420903
+2026Q3,3,Factor,Prices,0.015356892170354906
+2026Q3,3,Factor,Retail,-0.0043210013993017216
+2026Q3,3,Factor,Trade,-0.002695257443558195
+2026Q3,3,Bridge + ridge,GDP,0.04022811801542045
+2026Q3,3,Bridge + ridge,Labour market,-0.021333202401631154
+2026Q3,3,Bridge + ridge,Manufacturing detail (latest vintage),0.0
+2026Q3,3,Bridge + ridge,Money and markets,-0.058107906522985156
+2026Q3,3,Bridge + ridge,Output (latest vintage),0.0
+2026Q3,3,Bridge + ridge,Output (real time),0.23956810065252723
+2026Q3,3,Bridge + ridge,Prices,-0.03672375538698773
+2026Q3,3,Bridge + ridge,Retail,0.0274106264439505
+2026Q3,3,Bridge + ridge,Trade,-0.03318879108329521
+2026Q3,3,Bridge + lasso,GDP,0.034292977560124296
+2026Q3,3,Bridge + lasso,Labour market,0.0
+2026Q3,3,Bridge + lasso,Manufacturing detail (latest vintage),0.0
+2026Q3,3,Bridge + lasso,Money and markets,-0.004175130162987262
+2026Q3,3,Bridge + lasso,Output (latest vintage),0.0
+2026Q3,3,Bridge + lasso,Output (real time),0.2476595192197527
+2026Q3,3,Bridge + lasso,Prices,0.004273586452484198
+2026Q3,3,Bridge + lasso,Retail,-0.0076567204272975226
+2026Q3,3,Bridge + lasso,Trade,-3.626022272799673e-05
+2026Q3,3,Bridge + elastic net,GDP,0.036368371525009054
+2026Q3,3,Bridge + elastic net,Labour market,0.00011510991945141737
+2026Q3,3,Bridge + elastic net,Manufacturing detail (latest vintage),0.0
+2026Q3,3,Bridge + elastic net,Money and markets,-0.02963427967102148
+2026Q3,3,Bridge + elastic net,Output (latest vintage),0.0
+2026Q3,3,Bridge + elastic net,Output (real time),0.2387927165934429
+2026Q3,3,Bridge + elastic net,Prices,0.0012605965529328556
+2026Q3,3,Bridge + elastic net,Retail,-0.0006024602539650963
+2026Q3,3,Bridge + elastic net,Trade,-0.005125774073565189
+2026Q3,3,Bridge + group lasso,GDP,0.035699945910842565
+2026Q3,3,Bridge + group lasso,Labour market,0.0
+2026Q3,3,Bridge + group lasso,Manufacturing detail (latest vintage),0.0
+2026Q3,3,Bridge + group lasso,Money and markets,-0.004372272278162161
+2026Q3,3,Bridge + group lasso,Output (latest vintage),0.0
+2026Q3,3,Bridge + group lasso,Output (real time),0.29374625800381887
+2026Q3,3,Bridge + group lasso,Prices,0.0
+2026Q3,3,Bridge + group lasso,Retail,0.0009296399918980637
+2026Q3,3,Bridge + group lasso,Trade,0.0
+2026Q3,3,Bridge + factors,GDP,0.04151989309395834
+2026Q3,3,Bridge + factors,Labour market,-0.00592237087756064
+2026Q3,3,Bridge + factors,Manufacturing detail (latest vintage),0.0
+2026Q3,3,Bridge + factors,Money and markets,-0.014279762965554946
+2026Q3,3,Bridge + factors,Output (latest vintage),0.0
+2026Q3,3,Bridge + factors,Output (real time),0.24040209179779967
+2026Q3,3,Bridge + factors,Prices,-4.75683112398915e-05
+2026Q3,3,Bridge + factors,Retail,0.0017908144509003977
+2026Q3,3,Bridge + factors,Trade,0.0070406725240213675

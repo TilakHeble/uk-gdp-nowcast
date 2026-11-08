@@ -1,0 +1,10 @@
+[project]
+name = "uk-gdp-nowcast"
+version = "1.0.0"
+description = "Real-time nowcasting of UK GDP with regularised regression"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+filterwarnings = ["ignore::RuntimeWarning", "ignore::UserWarning"]

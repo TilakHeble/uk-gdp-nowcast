@@ -1,0 +1,1521 @@
+model,h,code,name,group,frequency,n_origins
+Lasso,-1,J467,Retail sales ex fuel,Retail,0.9634146341463414,82
+Lasso,-1,IUMABEDR,Bank Rate,Money and markets,0.9024390243902439,82
+Lasso,-1,MGSX,Unemployment rate,Labour market,0.8536585365853658,82
+Lasso,-1,D7BT,CPI index,Prices,0.8414634146341463,82
+Lasso,-1,MGRZ,Employment level,Labour market,0.8414634146341463,82
+Lasso,-1,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.8292682926829268,82
+Lasso,-1,AP2Y,Vacancies,Labour market,0.8170731707317073,82
+Lasso,-1,RT_IOS,Index of Services (real time),Output (real time),0.8048780487804879,82
+Lasso,-1,CZBH,RPI inflation (annual),Prices,0.7926829268292683,82
+Lasso,-1,IUMSNPY,5-year gilt yield,Money and markets,0.7682926829268293,82
+Lasso,-1,IUMAMNPY,10-year gilt yield,Money and markets,0.6707317073170732,82
+Lasso,-1,IKBF,Services imports volume,Trade,0.6219512195121951,82
+Lasso,-1,D7F5,CPI services index,Prices,0.573170731707317,82
+Lasso,-1,DKO8,Core CPI inflation (annual),Prices,0.5487804878048781,82
+Lasso,-1,ENDZ,Car exports,Trade,0.5487804878048781,82
+Lasso,-1,LPMAUYN,M4 money supply,Money and markets,0.5365853658536586,82
+Lasso,-1,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.4878048780487805,82
+Lasso,-1,GDP_q2,"GDP growth, quarter t-2",GDP,0.43902439024390244,82
+Lasso,-1,XUMAUSS,Sterling-dollar rate,Money and markets,0.4024390243902439,82
+Lasso,-1,ENGT,Car imports,Trade,0.4024390243902439,82
+Lasso,-1,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.3902439024390244,82
+Lasso,-1,RT_IOP,Index of Production (real time),Output (real time),0.36585365853658536,82
+Lasso,-1,YBUS,Total weekly hours worked,Labour market,0.3170731707317073,82
+Lasso,-1,J5DZ,Online (non-store) retail,Retail,0.3170731707317073,82
+Lasso,-1,XUMABK67,Sterling effective exchange rate,Money and markets,0.25609756097560976,82
+Lasso,-1,J5EK,Retail sales volume,Retail,0.21951219512195122,82
+Lasso,-1,LF2S,Inactivity rate (16-64),Labour market,0.21951219512195122,82
+Lasso,-1,IKBE,Services exports volume,Trade,0.1951219512195122,82
+Lasso,-1,BQKQ,Goods exports volume,Trade,0.1951219512195122,82
+Lasso,-1,BQKO,Goods imports volume,Trade,0.18292682926829268,82
+Lasso,-1,KAB9,Average weekly earnings,Labour market,0.14634146341463414,82
+Lasso,-1,LF24,Employment rate (16-64),Labour market,0.12195121951219512,82
+Lasso,-1,JO5A,Automotive fuel sales,Retail,0.10975609756097561,82
+Lasso,-1,RT_IOM,Index of Manufacturing (real time),Output (real time),0.10975609756097561,82
+Lasso,-1,D7G7,CPI inflation (annual),Prices,0.0975609756097561,82
+Lasso,-1,YCBW,Workers with second jobs,Labour market,0.0975609756097561,82
+Lasso,-1,BOXV,Goods exports ex oil and erratics,Trade,0.08536585365853659,82
+Lasso,-1,BPIV,Goods imports ex oil and erratics,Trade,0.07317073170731707,82
+Lasso,-1,ENEI,Capital goods exports,Trade,0.06097560975609756,82
+Lasso,-1,ENGW,Capital goods imports,Trade,0.024390243902439025,82
+Lasso,-1,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Lasso,-1,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Lasso,-1,ECY4,Production,Output (latest vintage),0.0,82
+Lasso,-1,ECY3,Agriculture,Output (latest vintage),0.0,82
+Lasso,-1,ECYC,Services,Output (latest vintage),0.0,82
+Lasso,-1,ECY9,Construction,Output (latest vintage),0.0,82
+Lasso,-1,ECY8,Water and waste,Output (latest vintage),0.0,82
+Lasso,-1,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Lasso,-1,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Lasso,-1,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Lasso,-1,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Lasso,-1,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Lasso,-1,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Lasso,-1,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Lasso,-1,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Lasso,-1,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Lasso,-1,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Lasso,-1,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Lasso,-1,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Lasso,-1,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Lasso,-1,ECYP,Administrative services,Output (latest vintage),0.0,82
+Lasso,-1,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Lasso,-1,ECYK,Real estate,Output (latest vintage),0.0,82
+Lasso,-1,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Lasso,-1,ECYI,Information and communication,Output (latest vintage),0.0,82
+Lasso,-1,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Lasso,-1,ECYR,Education,Output (latest vintage),0.0,82
+Lasso,-1,ECYQ,Public administration,Output (latest vintage),0.0,82
+Lasso,-1,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Lasso,-1,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Lasso,-1,ECYS,Health and social work,Output (latest vintage),0.0,82
+Lasso,-1,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Lasso,-1,ECYU,Other services,Output (latest vintage),0.0,82
+Lasso,-1,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Lasso,-1,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Lasso,-1,GDP_q1,"GDP growth, quarter t-1",GDP,0.0,82
+Lasso,0,IUMABEDR,Bank Rate,Money and markets,0.9878048780487805,82
+Lasso,0,MGSX,Unemployment rate,Labour market,0.8902439024390244,82
+Lasso,0,RT_IOS,Index of Services (real time),Output (real time),0.8536585365853658,82
+Lasso,0,AP2Y,Vacancies,Labour market,0.8536585365853658,82
+Lasso,0,D7BT,CPI index,Prices,0.8536585365853658,82
+Lasso,0,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.8536585365853658,82
+Lasso,0,LPMAUYN,M4 money supply,Money and markets,0.8414634146341463,82
+Lasso,0,J467,Retail sales ex fuel,Retail,0.8170731707317073,82
+Lasso,0,IUMSNPY,5-year gilt yield,Money and markets,0.8170731707317073,82
+Lasso,0,CZBH,RPI inflation (annual),Prices,0.7926829268292683,82
+Lasso,0,D7F5,CPI services index,Prices,0.7804878048780488,82
+Lasso,0,RT_IOM,Index of Manufacturing (real time),Output (real time),0.7804878048780488,82
+Lasso,0,GDP_q1,"GDP growth, quarter t-1",GDP,0.7682926829268293,82
+Lasso,0,BQKQ,Goods exports volume,Trade,0.7682926829268293,82
+Lasso,0,XUMAUSS,Sterling-dollar rate,Money and markets,0.7073170731707317,82
+Lasso,0,BPIV,Goods imports ex oil and erratics,Trade,0.7073170731707317,82
+Lasso,0,IKBF,Services imports volume,Trade,0.6341463414634146,82
+Lasso,0,IUMAMNPY,10-year gilt yield,Money and markets,0.5853658536585366,82
+Lasso,0,MGRZ,Employment level,Labour market,0.573170731707317,82
+Lasso,0,ENDZ,Car exports,Trade,0.573170731707317,82
+Lasso,0,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.524390243902439,82
+Lasso,0,LF24,Employment rate (16-64),Labour market,0.4634146341463415,82
+Lasso,0,GDP_q2,"GDP growth, quarter t-2",GDP,0.4634146341463415,82
+Lasso,0,J5DZ,Online (non-store) retail,Retail,0.45121951219512196,82
+Lasso,0,YBUS,Total weekly hours worked,Labour market,0.3780487804878049,82
+Lasso,0,LF2S,Inactivity rate (16-64),Labour market,0.36585365853658536,82
+Lasso,0,DKO8,Core CPI inflation (annual),Prices,0.3048780487804878,82
+Lasso,0,BOXV,Goods exports ex oil and erratics,Trade,0.2682926829268293,82
+Lasso,0,XUMABK67,Sterling effective exchange rate,Money and markets,0.25609756097560976,82
+Lasso,0,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.1951219512195122,82
+Lasso,0,J5EK,Retail sales volume,Retail,0.13414634146341464,82
+Lasso,0,RT_IOP,Index of Production (real time),Output (real time),0.13414634146341464,82
+Lasso,0,BQKO,Goods imports volume,Trade,0.12195121951219512,82
+Lasso,0,YCBW,Workers with second jobs,Labour market,0.10975609756097561,82
+Lasso,0,ENEI,Capital goods exports,Trade,0.0975609756097561,82
+Lasso,0,JO5A,Automotive fuel sales,Retail,0.0975609756097561,82
+Lasso,0,D7G7,CPI inflation (annual),Prices,0.0975609756097561,82
+Lasso,0,ENGW,Capital goods imports,Trade,0.036585365853658534,82
+Lasso,0,ENGT,Car imports,Trade,0.036585365853658534,82
+Lasso,0,KAB9,Average weekly earnings,Labour market,0.024390243902439025,82
+Lasso,0,IKBE,Services exports volume,Trade,0.024390243902439025,82
+Lasso,0,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Lasso,0,ECY4,Production,Output (latest vintage),0.0,82
+Lasso,0,ECY3,Agriculture,Output (latest vintage),0.0,82
+Lasso,0,ECYC,Services,Output (latest vintage),0.0,82
+Lasso,0,ECY9,Construction,Output (latest vintage),0.0,82
+Lasso,0,ECY8,Water and waste,Output (latest vintage),0.0,82
+Lasso,0,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Lasso,0,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Lasso,0,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Lasso,0,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Lasso,0,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Lasso,0,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Lasso,0,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Lasso,0,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Lasso,0,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Lasso,0,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Lasso,0,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Lasso,0,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Lasso,0,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Lasso,0,ECYP,Administrative services,Output (latest vintage),0.0,82
+Lasso,0,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Lasso,0,ECYK,Real estate,Output (latest vintage),0.0,82
+Lasso,0,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Lasso,0,ECYI,Information and communication,Output (latest vintage),0.0,82
+Lasso,0,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Lasso,0,ECYR,Education,Output (latest vintage),0.0,82
+Lasso,0,ECYQ,Public administration,Output (latest vintage),0.0,82
+Lasso,0,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Lasso,0,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Lasso,0,ECYS,Health and social work,Output (latest vintage),0.0,82
+Lasso,0,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Lasso,0,ECYU,Other services,Output (latest vintage),0.0,82
+Lasso,0,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Lasso,0,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Lasso,0,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Lasso,1,IUMABEDR,Bank Rate,Money and markets,1.0,82
+Lasso,1,MGSX,Unemployment rate,Labour market,0.8902439024390244,82
+Lasso,1,AP2Y,Vacancies,Labour market,0.8658536585365854,82
+Lasso,1,RT_IOS,Index of Services (real time),Output (real time),0.8536585365853658,82
+Lasso,1,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.8536585365853658,82
+Lasso,1,LPMAUYN,M4 money supply,Money and markets,0.8292682926829268,82
+Lasso,1,MGRZ,Employment level,Labour market,0.8292682926829268,82
+Lasso,1,XUMAUSS,Sterling-dollar rate,Money and markets,0.8048780487804879,82
+Lasso,1,IUMSNPY,5-year gilt yield,Money and markets,0.7560975609756098,82
+Lasso,1,RT_IOM,Index of Manufacturing (real time),Output (real time),0.7317073170731707,82
+Lasso,1,CZBH,RPI inflation (annual),Prices,0.7317073170731707,82
+Lasso,1,BQKQ,Goods exports volume,Trade,0.7195121951219512,82
+Lasso,1,ENGW,Capital goods imports,Trade,0.7073170731707317,82
+Lasso,1,J5EK,Retail sales volume,Retail,0.6951219512195121,82
+Lasso,1,GDP_q1,"GDP growth, quarter t-1",GDP,0.6829268292682927,82
+Lasso,1,D7BT,CPI index,Prices,0.6707317073170732,82
+Lasso,1,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.6585365853658537,82
+Lasso,1,IUMAMNPY,10-year gilt yield,Money and markets,0.6219512195121951,82
+Lasso,1,D7F5,CPI services index,Prices,0.5975609756097561,82
+Lasso,1,LF2S,Inactivity rate (16-64),Labour market,0.5609756097560976,82
+Lasso,1,J467,Retail sales ex fuel,Retail,0.5609756097560976,82
+Lasso,1,BPIV,Goods imports ex oil and erratics,Trade,0.5487804878048781,82
+Lasso,1,J5DZ,Online (non-store) retail,Retail,0.5121951219512195,82
+Lasso,1,IKBF,Services imports volume,Trade,0.5,82
+Lasso,1,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.4878048780487805,82
+Lasso,1,LF24,Employment rate (16-64),Labour market,0.4878048780487805,82
+Lasso,1,ENDZ,Car exports,Trade,0.4268292682926829,82
+Lasso,1,RT_IOP,Index of Production (real time),Output (real time),0.3780487804878049,82
+Lasso,1,GDP_q2,"GDP growth, quarter t-2",GDP,0.36585365853658536,82
+Lasso,1,DKO8,Core CPI inflation (annual),Prices,0.35365853658536583,82
+Lasso,1,ENGT,Car imports,Trade,0.3048780487804878,82
+Lasso,1,ENEI,Capital goods exports,Trade,0.2682926829268293,82
+Lasso,1,D7G7,CPI inflation (annual),Prices,0.24390243902439024,82
+Lasso,1,YCBW,Workers with second jobs,Labour market,0.23170731707317074,82
+Lasso,1,JO5A,Automotive fuel sales,Retail,0.21951219512195122,82
+Lasso,1,XUMABK67,Sterling effective exchange rate,Money and markets,0.1951219512195122,82
+Lasso,1,BQKO,Goods imports volume,Trade,0.1951219512195122,82
+Lasso,1,YBUS,Total weekly hours worked,Labour market,0.1951219512195122,82
+Lasso,1,IKBE,Services exports volume,Trade,0.17073170731707318,82
+Lasso,1,KAB9,Average weekly earnings,Labour market,0.13414634146341464,82
+Lasso,1,BOXV,Goods exports ex oil and erratics,Trade,0.08536585365853659,82
+Lasso,1,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Lasso,1,ECY4,Production,Output (latest vintage),0.0,82
+Lasso,1,ECY3,Agriculture,Output (latest vintage),0.0,82
+Lasso,1,ECYC,Services,Output (latest vintage),0.0,82
+Lasso,1,ECY9,Construction,Output (latest vintage),0.0,82
+Lasso,1,ECY8,Water and waste,Output (latest vintage),0.0,82
+Lasso,1,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Lasso,1,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Lasso,1,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Lasso,1,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Lasso,1,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Lasso,1,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Lasso,1,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Lasso,1,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Lasso,1,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Lasso,1,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Lasso,1,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Lasso,1,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Lasso,1,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Lasso,1,ECYP,Administrative services,Output (latest vintage),0.0,82
+Lasso,1,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Lasso,1,ECYK,Real estate,Output (latest vintage),0.0,82
+Lasso,1,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Lasso,1,ECYI,Information and communication,Output (latest vintage),0.0,82
+Lasso,1,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Lasso,1,ECYR,Education,Output (latest vintage),0.0,82
+Lasso,1,ECYQ,Public administration,Output (latest vintage),0.0,82
+Lasso,1,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Lasso,1,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Lasso,1,ECYS,Health and social work,Output (latest vintage),0.0,82
+Lasso,1,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Lasso,1,ECYU,Other services,Output (latest vintage),0.0,82
+Lasso,1,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Lasso,1,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Lasso,1,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Lasso,2,IUMABEDR,Bank Rate,Money and markets,1.0,82
+Lasso,2,RT_IOP,Index of Production (real time),Output (real time),0.9024390243902439,82
+Lasso,2,AP2Y,Vacancies,Labour market,0.8536585365853658,82
+Lasso,2,RT_IOS,Index of Services (real time),Output (real time),0.8536585365853658,82
+Lasso,2,GDP_q1,"GDP growth, quarter t-1",GDP,0.8414634146341463,82
+Lasso,2,LPMAUYN,M4 money supply,Money and markets,0.8414634146341463,82
+Lasso,2,MGSX,Unemployment rate,Labour market,0.8048780487804879,82
+Lasso,2,XUMAUSS,Sterling-dollar rate,Money and markets,0.7804878048780488,82
+Lasso,2,MGRZ,Employment level,Labour market,0.7804878048780488,82
+Lasso,2,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.7439024390243902,82
+Lasso,2,RT_IOM,Index of Manufacturing (real time),Output (real time),0.7439024390243902,82
+Lasso,2,CZBH,RPI inflation (annual),Prices,0.7317073170731707,82
+Lasso,2,XUMABK67,Sterling effective exchange rate,Money and markets,0.7073170731707317,82
+Lasso,2,IUMSNPY,5-year gilt yield,Money and markets,0.7073170731707317,82
+Lasso,2,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.6707317073170732,82
+Lasso,2,BQKQ,Goods exports volume,Trade,0.6219512195121951,82
+Lasso,2,BPIV,Goods imports ex oil and erratics,Trade,0.5975609756097561,82
+Lasso,2,J467,Retail sales ex fuel,Retail,0.5975609756097561,82
+Lasso,2,D7BT,CPI index,Prices,0.5853658536585366,82
+Lasso,2,IKBF,Services imports volume,Trade,0.573170731707317,82
+Lasso,2,J5EK,Retail sales volume,Retail,0.5609756097560976,82
+Lasso,2,ENGW,Capital goods imports,Trade,0.5365853658536586,82
+Lasso,2,GDP_q2,"GDP growth, quarter t-2",GDP,0.5365853658536586,82
+Lasso,2,J5DZ,Online (non-store) retail,Retail,0.524390243902439,82
+Lasso,2,LF2S,Inactivity rate (16-64),Labour market,0.5121951219512195,82
+Lasso,2,D7F5,CPI services index,Prices,0.5,82
+Lasso,2,YCBW,Workers with second jobs,Labour market,0.47560975609756095,82
+Lasso,2,JO5A,Automotive fuel sales,Retail,0.4634146341463415,82
+Lasso,2,IUMAMNPY,10-year gilt yield,Money and markets,0.4634146341463415,82
+Lasso,2,DKO8,Core CPI inflation (annual),Prices,0.45121951219512196,82
+Lasso,2,YBUS,Total weekly hours worked,Labour market,0.43902439024390244,82
+Lasso,2,ENDZ,Car exports,Trade,0.4146341463414634,82
+Lasso,2,ENEI,Capital goods exports,Trade,0.36585365853658536,82
+Lasso,2,ENGT,Car imports,Trade,0.3170731707317073,82
+Lasso,2,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.3170731707317073,82
+Lasso,2,BOXV,Goods exports ex oil and erratics,Trade,0.2926829268292683,82
+Lasso,2,KAB9,Average weekly earnings,Labour market,0.25609756097560976,82
+Lasso,2,IKBE,Services exports volume,Trade,0.25609756097560976,82
+Lasso,2,D7G7,CPI inflation (annual),Prices,0.1951219512195122,82
+Lasso,2,BQKO,Goods imports volume,Trade,0.1951219512195122,82
+Lasso,2,LF24,Employment rate (16-64),Labour market,0.13414634146341464,82
+Lasso,2,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Lasso,2,ECY4,Production,Output (latest vintage),0.0,82
+Lasso,2,ECY3,Agriculture,Output (latest vintage),0.0,82
+Lasso,2,ECYC,Services,Output (latest vintage),0.0,82
+Lasso,2,ECY9,Construction,Output (latest vintage),0.0,82
+Lasso,2,ECY8,Water and waste,Output (latest vintage),0.0,82
+Lasso,2,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Lasso,2,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Lasso,2,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Lasso,2,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Lasso,2,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Lasso,2,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Lasso,2,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Lasso,2,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Lasso,2,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Lasso,2,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Lasso,2,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Lasso,2,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Lasso,2,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Lasso,2,ECYP,Administrative services,Output (latest vintage),0.0,82
+Lasso,2,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Lasso,2,ECYK,Real estate,Output (latest vintage),0.0,82
+Lasso,2,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Lasso,2,ECYI,Information and communication,Output (latest vintage),0.0,82
+Lasso,2,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Lasso,2,ECYR,Education,Output (latest vintage),0.0,82
+Lasso,2,ECYQ,Public administration,Output (latest vintage),0.0,82
+Lasso,2,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Lasso,2,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Lasso,2,ECYS,Health and social work,Output (latest vintage),0.0,82
+Lasso,2,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Lasso,2,ECYU,Other services,Output (latest vintage),0.0,82
+Lasso,2,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Lasso,2,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Lasso,2,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Lasso,3,RT_IOS,Index of Services (real time),Output (real time),1.0,33
+Lasso,3,RT_IOP,Index of Production (real time),Output (real time),1.0,33
+Lasso,3,RT_IOM,Index of Manufacturing (real time),Output (real time),1.0,33
+Lasso,3,D7BT,CPI index,Prices,1.0,33
+Lasso,3,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,1.0,33
+Lasso,3,XUMAUSS,Sterling-dollar rate,Money and markets,1.0,33
+Lasso,3,LPMAUYN,M4 money supply,Money and markets,1.0,33
+Lasso,3,LPMVTVX,Mortgage approvals for house purchase,Money and markets,1.0,33
+Lasso,3,GDP_q1,"GDP growth, quarter t-1",GDP,1.0,33
+Lasso,3,IUMABEDR,Bank Rate,Money and markets,1.0,33
+Lasso,3,J5DZ,Online (non-store) retail,Retail,1.0,33
+Lasso,3,J5EK,Retail sales volume,Retail,1.0,33
+Lasso,3,AP2Y,Vacancies,Labour market,1.0,33
+Lasso,3,CZBH,RPI inflation (annual),Prices,1.0,33
+Lasso,3,MGSX,Unemployment rate,Labour market,1.0,33
+Lasso,3,BPIV,Goods imports ex oil and erratics,Trade,1.0,33
+Lasso,3,XUMABK67,Sterling effective exchange rate,Money and markets,0.9696969696969697,33
+Lasso,3,IKBF,Services imports volume,Trade,0.8787878787878788,33
+Lasso,3,GDP_q2,"GDP growth, quarter t-2",GDP,0.8484848484848485,33
+Lasso,3,MGRZ,Employment level,Labour market,0.8484848484848485,33
+Lasso,3,J467,Retail sales ex fuel,Retail,0.8181818181818182,33
+Lasso,3,DKO8,Core CPI inflation (annual),Prices,0.7272727272727273,33
+Lasso,3,D7F5,CPI services index,Prices,0.696969696969697,33
+Lasso,3,YCBW,Workers with second jobs,Labour market,0.696969696969697,33
+Lasso,3,ENGW,Capital goods imports,Trade,0.5757575757575758,33
+Lasso,3,ENDZ,Car exports,Trade,0.5757575757575758,33
+Lasso,3,IUMAMNPY,10-year gilt yield,Money and markets,0.5757575757575758,33
+Lasso,3,ENEI,Capital goods exports,Trade,0.5454545454545454,33
+Lasso,3,BQKQ,Goods exports volume,Trade,0.5151515151515151,33
+Lasso,3,BQKO,Goods imports volume,Trade,0.48484848484848486,33
+Lasso,3,LF2S,Inactivity rate (16-64),Labour market,0.48484848484848486,33
+Lasso,3,ENGT,Car imports,Trade,0.45454545454545453,33
+Lasso,3,D7G7,CPI inflation (annual),Prices,0.42424242424242425,33
+Lasso,3,JO5A,Automotive fuel sales,Retail,0.42424242424242425,33
+Lasso,3,IKBE,Services exports volume,Trade,0.3939393939393939,33
+Lasso,3,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.2727272727272727,33
+Lasso,3,YBUS,Total weekly hours worked,Labour market,0.24242424242424243,33
+Lasso,3,IUMSNPY,5-year gilt yield,Money and markets,0.18181818181818182,33
+Lasso,3,KAB9,Average weekly earnings,Labour market,0.09090909090909091,33
+Lasso,3,LF24,Employment rate (16-64),Labour market,0.030303030303030304,33
+Lasso,3,BOXV,Goods exports ex oil and erratics,Trade,0.030303030303030304,33
+Lasso,3,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,33
+Lasso,3,ECY4,Production,Output (latest vintage),0.0,33
+Lasso,3,ECY3,Agriculture,Output (latest vintage),0.0,33
+Lasso,3,ECYC,Services,Output (latest vintage),0.0,33
+Lasso,3,ECY9,Construction,Output (latest vintage),0.0,33
+Lasso,3,ECY8,Water and waste,Output (latest vintage),0.0,33
+Lasso,3,ECY7,Electricity and gas,Output (latest vintage),0.0,33
+Lasso,3,ECY6,Manufacturing,Output (latest vintage),0.0,33
+Lasso,3,ECY5,Mining and quarrying,Output (latest vintage),0.0,33
+Lasso,3,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,33
+Lasso,3,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,33
+Lasso,3,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,33
+Lasso,3,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,33
+Lasso,3,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,33
+Lasso,3,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,33
+Lasso,3,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,33
+Lasso,3,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,33
+Lasso,3,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,33
+Lasso,3,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,33
+Lasso,3,ECYP,Administrative services,Output (latest vintage),0.0,33
+Lasso,3,ECYL,Professional and scientific,Output (latest vintage),0.0,33
+Lasso,3,ECYK,Real estate,Output (latest vintage),0.0,33
+Lasso,3,ECYJ,Finance and insurance,Output (latest vintage),0.0,33
+Lasso,3,ECYI,Information and communication,Output (latest vintage),0.0,33
+Lasso,3,ECYH,Accommodation and food,Output (latest vintage),0.0,33
+Lasso,3,ECYR,Education,Output (latest vintage),0.0,33
+Lasso,3,ECYQ,Public administration,Output (latest vintage),0.0,33
+Lasso,3,ECYG,Transport and storage,Output (latest vintage),0.0,33
+Lasso,3,ECYD,Wholesale and retail,Output (latest vintage),0.0,33
+Lasso,3,ECYS,Health and social work,Output (latest vintage),0.0,33
+Lasso,3,ECYT,Arts and recreation,Output (latest vintage),0.0,33
+Lasso,3,ECYU,Other services,Output (latest vintage),0.0,33
+Lasso,3,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,33
+Lasso,3,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,33
+Lasso,3,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,33
+Group lasso,-1,J467,Retail sales ex fuel,Retail,0.926829268292683,82
+Group lasso,-1,AP2Y,Vacancies,Labour market,0.8414634146341463,82
+Group lasso,-1,RT_IOS,Index of Services (real time),Output (real time),0.8292682926829268,82
+Group lasso,-1,IUMSNPY,5-year gilt yield,Money and markets,0.8292682926829268,82
+Group lasso,-1,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.8292682926829268,82
+Group lasso,-1,MGRZ,Employment level,Labour market,0.7560975609756098,82
+Group lasso,-1,LPMAUYN,M4 money supply,Money and markets,0.7439024390243902,82
+Group lasso,-1,IUMABEDR,Bank Rate,Money and markets,0.7439024390243902,82
+Group lasso,-1,D7BT,CPI index,Prices,0.7439024390243902,82
+Group lasso,-1,D7F5,CPI services index,Prices,0.6951219512195121,82
+Group lasso,-1,XUMAUSS,Sterling-dollar rate,Money and markets,0.6707317073170732,82
+Group lasso,-1,IKBF,Services imports volume,Trade,0.6463414634146342,82
+Group lasso,-1,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.6341463414634146,82
+Group lasso,-1,GDP_q2,"GDP growth, quarter t-2",GDP,0.5975609756097561,82
+Group lasso,-1,CZBH,RPI inflation (annual),Prices,0.5853658536585366,82
+Group lasso,-1,MGSX,Unemployment rate,Labour market,0.573170731707317,82
+Group lasso,-1,DKO8,Core CPI inflation (annual),Prices,0.524390243902439,82
+Group lasso,-1,ENDZ,Car exports,Trade,0.5,82
+Group lasso,-1,BQKQ,Goods exports volume,Trade,0.45121951219512196,82
+Group lasso,-1,YBUS,Total weekly hours worked,Labour market,0.4268292682926829,82
+Group lasso,-1,J5DZ,Online (non-store) retail,Retail,0.35365853658536583,82
+Group lasso,-1,ENGT,Car imports,Trade,0.34146341463414637,82
+Group lasso,-1,XUMABK67,Sterling effective exchange rate,Money and markets,0.2682926829268293,82
+Group lasso,-1,IKBE,Services exports volume,Trade,0.1951219512195122,82
+Group lasso,-1,LF2S,Inactivity rate (16-64),Labour market,0.1951219512195122,82
+Group lasso,-1,LF24,Employment rate (16-64),Labour market,0.17073170731707318,82
+Group lasso,-1,RT_IOP,Index of Production (real time),Output (real time),0.15853658536585366,82
+Group lasso,-1,KAB9,Average weekly earnings,Labour market,0.12195121951219512,82
+Group lasso,-1,BQKO,Goods imports volume,Trade,0.12195121951219512,82
+Group lasso,-1,IUMAMNPY,10-year gilt yield,Money and markets,0.10975609756097561,82
+Group lasso,-1,YCBW,Workers with second jobs,Labour market,0.0975609756097561,82
+Group lasso,-1,J5EK,Retail sales volume,Retail,0.08536585365853659,82
+Group lasso,-1,BPIV,Goods imports ex oil and erratics,Trade,0.08536585365853659,82
+Group lasso,-1,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.07317073170731707,82
+Group lasso,-1,D7G7,CPI inflation (annual),Prices,0.04878048780487805,82
+Group lasso,-1,ENEI,Capital goods exports,Trade,0.024390243902439025,82
+Group lasso,-1,JO5A,Automotive fuel sales,Retail,0.012195121951219513,82
+Group lasso,-1,RT_IOM,Index of Manufacturing (real time),Output (real time),0.012195121951219513,82
+Group lasso,-1,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Group lasso,-1,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Group lasso,-1,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Group lasso,-1,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Group lasso,-1,ECY4,Production,Output (latest vintage),0.0,82
+Group lasso,-1,ECY3,Agriculture,Output (latest vintage),0.0,82
+Group lasso,-1,ECYC,Services,Output (latest vintage),0.0,82
+Group lasso,-1,ECY9,Construction,Output (latest vintage),0.0,82
+Group lasso,-1,ECY8,Water and waste,Output (latest vintage),0.0,82
+Group lasso,-1,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Group lasso,-1,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Group lasso,-1,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Group lasso,-1,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Group lasso,-1,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Group lasso,-1,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Group lasso,-1,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Group lasso,-1,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Group lasso,-1,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Group lasso,-1,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Group lasso,-1,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Group lasso,-1,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Group lasso,-1,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Group lasso,-1,ECYP,Administrative services,Output (latest vintage),0.0,82
+Group lasso,-1,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Group lasso,-1,ECYK,Real estate,Output (latest vintage),0.0,82
+Group lasso,-1,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Group lasso,-1,ECYI,Information and communication,Output (latest vintage),0.0,82
+Group lasso,-1,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Group lasso,-1,ECYR,Education,Output (latest vintage),0.0,82
+Group lasso,-1,ECYQ,Public administration,Output (latest vintage),0.0,82
+Group lasso,-1,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Group lasso,-1,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Group lasso,-1,ECYS,Health and social work,Output (latest vintage),0.0,82
+Group lasso,-1,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Group lasso,-1,ECYU,Other services,Output (latest vintage),0.0,82
+Group lasso,-1,ENGW,Capital goods imports,Trade,0.0,82
+Group lasso,-1,BOXV,Goods exports ex oil and erratics,Trade,0.0,82
+Group lasso,-1,GDP_q1,"GDP growth, quarter t-1",GDP,0.0,82
+Group lasso,0,IUMABEDR,Bank Rate,Money and markets,0.975609756097561,82
+Group lasso,0,IUMSNPY,5-year gilt yield,Money and markets,0.9146341463414634,82
+Group lasso,0,RT_IOS,Index of Services (real time),Output (real time),0.8536585365853658,82
+Group lasso,0,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.8414634146341463,82
+Group lasso,0,GDP_q1,"GDP growth, quarter t-1",GDP,0.8414634146341463,82
+Group lasso,0,D7BT,CPI index,Prices,0.8170731707317073,82
+Group lasso,0,AP2Y,Vacancies,Labour market,0.8170731707317073,82
+Group lasso,0,MGSX,Unemployment rate,Labour market,0.7682926829268293,82
+Group lasso,0,BQKQ,Goods exports volume,Trade,0.7560975609756098,82
+Group lasso,0,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.6707317073170732,82
+Group lasso,0,ENDZ,Car exports,Trade,0.5609756097560976,82
+Group lasso,0,CZBH,RPI inflation (annual),Prices,0.5609756097560976,82
+Group lasso,0,IKBF,Services imports volume,Trade,0.5609756097560976,82
+Group lasso,0,MGRZ,Employment level,Labour market,0.5365853658536586,82
+Group lasso,0,GDP_q2,"GDP growth, quarter t-2",GDP,0.45121951219512196,82
+Group lasso,0,LPMAUYN,M4 money supply,Money and markets,0.43902439024390244,82
+Group lasso,0,J467,Retail sales ex fuel,Retail,0.35365853658536583,82
+Group lasso,0,LF2S,Inactivity rate (16-64),Labour market,0.3170731707317073,82
+Group lasso,0,D7F5,CPI services index,Prices,0.3048780487804878,82
+Group lasso,0,IUMAMNPY,10-year gilt yield,Money and markets,0.2926829268292683,82
+Group lasso,0,LF24,Employment rate (16-64),Labour market,0.2682926829268293,82
+Group lasso,0,XUMAUSS,Sterling-dollar rate,Money and markets,0.24390243902439024,82
+Group lasso,0,DKO8,Core CPI inflation (annual),Prices,0.21951219512195122,82
+Group lasso,0,RT_IOM,Index of Manufacturing (real time),Output (real time),0.2073170731707317,82
+Group lasso,0,BQKO,Goods imports volume,Trade,0.13414634146341464,82
+Group lasso,0,RT_IOP,Index of Production (real time),Output (real time),0.07317073170731707,82
+Group lasso,0,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.06097560975609756,82
+Group lasso,0,XUMABK67,Sterling effective exchange rate,Money and markets,0.06097560975609756,82
+Group lasso,0,D7G7,CPI inflation (annual),Prices,0.04878048780487805,82
+Group lasso,0,YBUS,Total weekly hours worked,Labour market,0.04878048780487805,82
+Group lasso,0,YCBW,Workers with second jobs,Labour market,0.024390243902439025,82
+Group lasso,0,ENGT,Car imports,Trade,0.024390243902439025,82
+Group lasso,0,J5DZ,Online (non-store) retail,Retail,0.012195121951219513,82
+Group lasso,0,KAB9,Average weekly earnings,Labour market,0.012195121951219513,82
+Group lasso,0,J5EK,Retail sales volume,Retail,0.012195121951219513,82
+Group lasso,0,ECYC,Services,Output (latest vintage),0.0,82
+Group lasso,0,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Group lasso,0,ECY9,Construction,Output (latest vintage),0.0,82
+Group lasso,0,ECY8,Water and waste,Output (latest vintage),0.0,82
+Group lasso,0,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Group lasso,0,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Group lasso,0,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Group lasso,0,ECY4,Production,Output (latest vintage),0.0,82
+Group lasso,0,ECY3,Agriculture,Output (latest vintage),0.0,82
+Group lasso,0,JO5A,Automotive fuel sales,Retail,0.0,82
+Group lasso,0,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Group lasso,0,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Group lasso,0,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Group lasso,0,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Group lasso,0,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Group lasso,0,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Group lasso,0,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Group lasso,0,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Group lasso,0,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Group lasso,0,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Group lasso,0,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Group lasso,0,ECYU,Other services,Output (latest vintage),0.0,82
+Group lasso,0,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Group lasso,0,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Group lasso,0,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Group lasso,0,ECYP,Administrative services,Output (latest vintage),0.0,82
+Group lasso,0,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Group lasso,0,ECYK,Real estate,Output (latest vintage),0.0,82
+Group lasso,0,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Group lasso,0,ECYI,Information and communication,Output (latest vintage),0.0,82
+Group lasso,0,ECYS,Health and social work,Output (latest vintage),0.0,82
+Group lasso,0,ECYR,Education,Output (latest vintage),0.0,82
+Group lasso,0,ECYQ,Public administration,Output (latest vintage),0.0,82
+Group lasso,0,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Group lasso,0,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Group lasso,0,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Group lasso,0,BPIV,Goods imports ex oil and erratics,Trade,0.0,82
+Group lasso,0,ENGW,Capital goods imports,Trade,0.0,82
+Group lasso,0,BOXV,Goods exports ex oil and erratics,Trade,0.0,82
+Group lasso,0,ENEI,Capital goods exports,Trade,0.0,82
+Group lasso,0,IKBE,Services exports volume,Trade,0.0,82
+Group lasso,1,IUMABEDR,Bank Rate,Money and markets,0.975609756097561,82
+Group lasso,1,MGSX,Unemployment rate,Labour market,0.8780487804878049,82
+Group lasso,1,RT_IOS,Index of Services (real time),Output (real time),0.8536585365853658,82
+Group lasso,1,AP2Y,Vacancies,Labour market,0.8536585365853658,82
+Group lasso,1,GDP_q1,"GDP growth, quarter t-1",GDP,0.8414634146341463,82
+Group lasso,1,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.7926829268292683,82
+Group lasso,1,IUMSNPY,5-year gilt yield,Money and markets,0.7926829268292683,82
+Group lasso,1,XUMAUSS,Sterling-dollar rate,Money and markets,0.7804878048780488,82
+Group lasso,1,LPMAUYN,M4 money supply,Money and markets,0.7317073170731707,82
+Group lasso,1,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.6951219512195121,82
+Group lasso,1,MGRZ,Employment level,Labour market,0.6707317073170732,82
+Group lasso,1,J5EK,Retail sales volume,Retail,0.6585365853658537,82
+Group lasso,1,CZBH,RPI inflation (annual),Prices,0.6585365853658537,82
+Group lasso,1,IKBF,Services imports volume,Trade,0.6219512195121951,82
+Group lasso,1,BQKQ,Goods exports volume,Trade,0.6097560975609756,82
+Group lasso,1,ENDZ,Car exports,Trade,0.5121951219512195,82
+Group lasso,1,D7BT,CPI index,Prices,0.47560975609756095,82
+Group lasso,1,GDP_q2,"GDP growth, quarter t-2",GDP,0.45121951219512196,82
+Group lasso,1,D7F5,CPI services index,Prices,0.4268292682926829,82
+Group lasso,1,ENGT,Car imports,Trade,0.4268292682926829,82
+Group lasso,1,J467,Retail sales ex fuel,Retail,0.3902439024390244,82
+Group lasso,1,IUMAMNPY,10-year gilt yield,Money and markets,0.36585365853658536,82
+Group lasso,1,ENGW,Capital goods imports,Trade,0.2804878048780488,82
+Group lasso,1,RT_IOM,Index of Manufacturing (real time),Output (real time),0.24390243902439024,82
+Group lasso,1,LF2S,Inactivity rate (16-64),Labour market,0.24390243902439024,82
+Group lasso,1,D7G7,CPI inflation (annual),Prices,0.24390243902439024,82
+Group lasso,1,LF24,Employment rate (16-64),Labour market,0.21951219512195122,82
+Group lasso,1,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.1951219512195122,82
+Group lasso,1,J5DZ,Online (non-store) retail,Retail,0.14634146341463414,82
+Group lasso,1,BPIV,Goods imports ex oil and erratics,Trade,0.12195121951219512,82
+Group lasso,1,DKO8,Core CPI inflation (annual),Prices,0.10975609756097561,82
+Group lasso,1,RT_IOP,Index of Production (real time),Output (real time),0.10975609756097561,82
+Group lasso,1,YCBW,Workers with second jobs,Labour market,0.07317073170731707,82
+Group lasso,1,BQKO,Goods imports volume,Trade,0.06097560975609756,82
+Group lasso,1,KAB9,Average weekly earnings,Labour market,0.04878048780487805,82
+Group lasso,1,BOXV,Goods exports ex oil and erratics,Trade,0.04878048780487805,82
+Group lasso,1,YBUS,Total weekly hours worked,Labour market,0.036585365853658534,82
+Group lasso,1,ENEI,Capital goods exports,Trade,0.036585365853658534,82
+Group lasso,1,XUMABK67,Sterling effective exchange rate,Money and markets,0.024390243902439025,82
+Group lasso,1,IKBE,Services exports volume,Trade,0.024390243902439025,82
+Group lasso,1,JO5A,Automotive fuel sales,Retail,0.012195121951219513,82
+Group lasso,1,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Group lasso,1,ECY4,Production,Output (latest vintage),0.0,82
+Group lasso,1,ECY3,Agriculture,Output (latest vintage),0.0,82
+Group lasso,1,ECYC,Services,Output (latest vintage),0.0,82
+Group lasso,1,ECY9,Construction,Output (latest vintage),0.0,82
+Group lasso,1,ECY8,Water and waste,Output (latest vintage),0.0,82
+Group lasso,1,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Group lasso,1,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Group lasso,1,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Group lasso,1,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Group lasso,1,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Group lasso,1,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Group lasso,1,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Group lasso,1,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Group lasso,1,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Group lasso,1,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Group lasso,1,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Group lasso,1,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Group lasso,1,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Group lasso,1,ECYP,Administrative services,Output (latest vintage),0.0,82
+Group lasso,1,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Group lasso,1,ECYK,Real estate,Output (latest vintage),0.0,82
+Group lasso,1,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Group lasso,1,ECYI,Information and communication,Output (latest vintage),0.0,82
+Group lasso,1,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Group lasso,1,ECYR,Education,Output (latest vintage),0.0,82
+Group lasso,1,ECYQ,Public administration,Output (latest vintage),0.0,82
+Group lasso,1,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Group lasso,1,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Group lasso,1,ECYS,Health and social work,Output (latest vintage),0.0,82
+Group lasso,1,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Group lasso,1,ECYU,Other services,Output (latest vintage),0.0,82
+Group lasso,1,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Group lasso,1,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Group lasso,1,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Group lasso,2,IUMABEDR,Bank Rate,Money and markets,0.975609756097561,82
+Group lasso,2,GDP_q1,"GDP growth, quarter t-1",GDP,0.8658536585365854,82
+Group lasso,2,XUMAUSS,Sterling-dollar rate,Money and markets,0.8658536585365854,82
+Group lasso,2,MGSX,Unemployment rate,Labour market,0.8658536585365854,82
+Group lasso,2,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.8658536585365854,82
+Group lasso,2,RT_IOS,Index of Services (real time),Output (real time),0.8536585365853658,82
+Group lasso,2,LPMAUYN,M4 money supply,Money and markets,0.8536585365853658,82
+Group lasso,2,MGRZ,Employment level,Labour market,0.8414634146341463,82
+Group lasso,2,AP2Y,Vacancies,Labour market,0.8292682926829268,82
+Group lasso,2,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.8170731707317073,82
+Group lasso,2,RT_IOM,Index of Manufacturing (real time),Output (real time),0.7804878048780488,82
+Group lasso,2,RT_IOP,Index of Production (real time),Output (real time),0.7804878048780488,82
+Group lasso,2,J5DZ,Online (non-store) retail,Retail,0.7317073170731707,82
+Group lasso,2,DKO8,Core CPI inflation (annual),Prices,0.7195121951219512,82
+Group lasso,2,IUMSNPY,5-year gilt yield,Money and markets,0.7073170731707317,82
+Group lasso,2,CZBH,RPI inflation (annual),Prices,0.7073170731707317,82
+Group lasso,2,J5EK,Retail sales volume,Retail,0.6463414634146342,82
+Group lasso,2,JO5A,Automotive fuel sales,Retail,0.6341463414634146,82
+Group lasso,2,IKBF,Services imports volume,Trade,0.6219512195121951,82
+Group lasso,2,LF2S,Inactivity rate (16-64),Labour market,0.6219512195121951,82
+Group lasso,2,YCBW,Workers with second jobs,Labour market,0.5975609756097561,82
+Group lasso,2,D7F5,CPI services index,Prices,0.5975609756097561,82
+Group lasso,2,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.573170731707317,82
+Group lasso,2,BQKQ,Goods exports volume,Trade,0.5609756097560976,82
+Group lasso,2,BPIV,Goods imports ex oil and erratics,Trade,0.5487804878048781,82
+Group lasso,2,GDP_q2,"GDP growth, quarter t-2",GDP,0.4878048780487805,82
+Group lasso,2,D7BT,CPI index,Prices,0.43902439024390244,82
+Group lasso,2,ENGW,Capital goods imports,Trade,0.43902439024390244,82
+Group lasso,2,YBUS,Total weekly hours worked,Labour market,0.35365853658536583,82
+Group lasso,2,ENDZ,Car exports,Trade,0.35365853658536583,82
+Group lasso,2,ENGT,Car imports,Trade,0.34146341463414637,82
+Group lasso,2,J467,Retail sales ex fuel,Retail,0.2682926829268293,82
+Group lasso,2,IUMAMNPY,10-year gilt yield,Money and markets,0.23170731707317074,82
+Group lasso,2,BOXV,Goods exports ex oil and erratics,Trade,0.21951219512195122,82
+Group lasso,2,ENEI,Capital goods exports,Trade,0.21951219512195122,82
+Group lasso,2,IKBE,Services exports volume,Trade,0.18292682926829268,82
+Group lasso,2,D7G7,CPI inflation (annual),Prices,0.17073170731707318,82
+Group lasso,2,XUMABK67,Sterling effective exchange rate,Money and markets,0.14634146341463414,82
+Group lasso,2,KAB9,Average weekly earnings,Labour market,0.08536585365853659,82
+Group lasso,2,BQKO,Goods imports volume,Trade,0.04878048780487805,82
+Group lasso,2,LF24,Employment rate (16-64),Labour market,0.024390243902439025,82
+Group lasso,2,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Group lasso,2,ECY4,Production,Output (latest vintage),0.0,82
+Group lasso,2,ECY3,Agriculture,Output (latest vintage),0.0,82
+Group lasso,2,ECYC,Services,Output (latest vintage),0.0,82
+Group lasso,2,ECY9,Construction,Output (latest vintage),0.0,82
+Group lasso,2,ECY8,Water and waste,Output (latest vintage),0.0,82
+Group lasso,2,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Group lasso,2,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Group lasso,2,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Group lasso,2,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Group lasso,2,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Group lasso,2,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Group lasso,2,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Group lasso,2,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Group lasso,2,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Group lasso,2,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Group lasso,2,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Group lasso,2,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Group lasso,2,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Group lasso,2,ECYP,Administrative services,Output (latest vintage),0.0,82
+Group lasso,2,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Group lasso,2,ECYK,Real estate,Output (latest vintage),0.0,82
+Group lasso,2,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Group lasso,2,ECYI,Information and communication,Output (latest vintage),0.0,82
+Group lasso,2,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Group lasso,2,ECYR,Education,Output (latest vintage),0.0,82
+Group lasso,2,ECYQ,Public administration,Output (latest vintage),0.0,82
+Group lasso,2,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Group lasso,2,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Group lasso,2,ECYS,Health and social work,Output (latest vintage),0.0,82
+Group lasso,2,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Group lasso,2,ECYU,Other services,Output (latest vintage),0.0,82
+Group lasso,2,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Group lasso,2,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Group lasso,2,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Group lasso,3,RT_IOS,Index of Services (real time),Output (real time),1.0,33
+Group lasso,3,RT_IOP,Index of Production (real time),Output (real time),1.0,33
+Group lasso,3,CZBH,RPI inflation (annual),Prices,1.0,33
+Group lasso,3,DKO8,Core CPI inflation (annual),Prices,1.0,33
+Group lasso,3,LPMAUYN,M4 money supply,Money and markets,1.0,33
+Group lasso,3,GDP_q1,"GDP growth, quarter t-1",GDP,1.0,33
+Group lasso,3,YCBW,Workers with second jobs,Labour market,1.0,33
+Group lasso,3,LPMVTVX,Mortgage approvals for house purchase,Money and markets,1.0,33
+Group lasso,3,XUMAUSS,Sterling-dollar rate,Money and markets,1.0,33
+Group lasso,3,J5DZ,Online (non-store) retail,Retail,1.0,33
+Group lasso,3,J5EK,Retail sales volume,Retail,1.0,33
+Group lasso,3,JO5A,Automotive fuel sales,Retail,1.0,33
+Group lasso,3,MGSX,Unemployment rate,Labour market,1.0,33
+Group lasso,3,ENDZ,Car exports,Trade,1.0,33
+Group lasso,3,IUMABEDR,Bank Rate,Money and markets,1.0,33
+Group lasso,3,BPIV,Goods imports ex oil and erratics,Trade,0.9696969696969697,33
+Group lasso,3,MGRZ,Employment level,Labour market,0.9696969696969697,33
+Group lasso,3,GDP_q2,"GDP growth, quarter t-2",GDP,0.9696969696969697,33
+Group lasso,3,IKBF,Services imports volume,Trade,0.9696969696969697,33
+Group lasso,3,BQKQ,Goods exports volume,Trade,0.9696969696969697,33
+Group lasso,3,AP2Y,Vacancies,Labour market,0.8787878787878788,33
+Group lasso,3,D7F5,CPI services index,Prices,0.7878787878787878,33
+Group lasso,3,IUMSNPY,5-year gilt yield,Money and markets,0.7272727272727273,33
+Group lasso,3,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.6666666666666666,33
+Group lasso,3,D7BT,CPI index,Prices,0.6363636363636364,33
+Group lasso,3,ENGW,Capital goods imports,Trade,0.6060606060606061,33
+Group lasso,3,LF2S,Inactivity rate (16-64),Labour market,0.48484848484848486,33
+Group lasso,3,IUMAMNPY,10-year gilt yield,Money and markets,0.48484848484848486,33
+Group lasso,3,ENEI,Capital goods exports,Trade,0.45454545454545453,33
+Group lasso,3,ENGT,Car imports,Trade,0.3939393939393939,33
+Group lasso,3,BQKO,Goods imports volume,Trade,0.3939393939393939,33
+Group lasso,3,RT_IOM,Index of Manufacturing (real time),Output (real time),0.3333333333333333,33
+Group lasso,3,XUMABK67,Sterling effective exchange rate,Money and markets,0.2727272727272727,33
+Group lasso,3,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.24242424242424243,33
+Group lasso,3,IKBE,Services exports volume,Trade,0.15151515151515152,33
+Group lasso,3,ECYC,Services,Output (latest vintage),0.0,33
+Group lasso,3,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,33
+Group lasso,3,ECY9,Construction,Output (latest vintage),0.0,33
+Group lasso,3,ECY8,Water and waste,Output (latest vintage),0.0,33
+Group lasso,3,ECY7,Electricity and gas,Output (latest vintage),0.0,33
+Group lasso,3,ECY6,Manufacturing,Output (latest vintage),0.0,33
+Group lasso,3,ECY5,Mining and quarrying,Output (latest vintage),0.0,33
+Group lasso,3,ECY4,Production,Output (latest vintage),0.0,33
+Group lasso,3,ECY3,Agriculture,Output (latest vintage),0.0,33
+Group lasso,3,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,33
+Group lasso,3,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,33
+Group lasso,3,J467,Retail sales ex fuel,Retail,0.0,33
+Group lasso,3,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,33
+Group lasso,3,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,33
+Group lasso,3,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,33
+Group lasso,3,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,33
+Group lasso,3,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,33
+Group lasso,3,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,33
+Group lasso,3,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,33
+Group lasso,3,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,33
+Group lasso,3,ECYT,Arts and recreation,Output (latest vintage),0.0,33
+Group lasso,3,ECYU,Other services,Output (latest vintage),0.0,33
+Group lasso,3,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,33
+Group lasso,3,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,33
+Group lasso,3,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,33
+Group lasso,3,ECYP,Administrative services,Output (latest vintage),0.0,33
+Group lasso,3,ECYL,Professional and scientific,Output (latest vintage),0.0,33
+Group lasso,3,ECYK,Real estate,Output (latest vintage),0.0,33
+Group lasso,3,ECYJ,Finance and insurance,Output (latest vintage),0.0,33
+Group lasso,3,ECYI,Information and communication,Output (latest vintage),0.0,33
+Group lasso,3,ECYS,Health and social work,Output (latest vintage),0.0,33
+Group lasso,3,ECYR,Education,Output (latest vintage),0.0,33
+Group lasso,3,ECYQ,Public administration,Output (latest vintage),0.0,33
+Group lasso,3,ECYG,Transport and storage,Output (latest vintage),0.0,33
+Group lasso,3,ECYH,Accommodation and food,Output (latest vintage),0.0,33
+Group lasso,3,ECYD,Wholesale and retail,Output (latest vintage),0.0,33
+Group lasso,3,BOXV,Goods exports ex oil and erratics,Trade,0.0,33
+Group lasso,3,KAB9,Average weekly earnings,Labour market,0.0,33
+Group lasso,3,YBUS,Total weekly hours worked,Labour market,0.0,33
+Group lasso,3,LF24,Employment rate (16-64),Labour market,0.0,33
+Group lasso,3,D7G7,CPI inflation (annual),Prices,0.0,33
+Bridge + lasso,-1,RT_IOS,Index of Services (real time),Output (real time),1.0,82
+Bridge + lasso,-1,RT_IOP,Index of Production (real time),Output (real time),1.0,82
+Bridge + lasso,-1,GDP_q2,"GDP growth, quarter t-2",GDP,1.0,82
+Bridge + lasso,-1,J467,Retail sales ex fuel,Retail,1.0,82
+Bridge + lasso,-1,LPMAUYN,M4 money supply,Money and markets,0.975609756097561,82
+Bridge + lasso,-1,MGRZ,Employment level,Labour market,0.926829268292683,82
+Bridge + lasso,-1,IUMAMNPY,10-year gilt yield,Money and markets,0.9024390243902439,82
+Bridge + lasso,-1,AP2Y,Vacancies,Labour market,0.9024390243902439,82
+Bridge + lasso,-1,IUMSNPY,5-year gilt yield,Money and markets,0.8902439024390244,82
+Bridge + lasso,-1,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.8658536585365854,82
+Bridge + lasso,-1,D7BT,CPI index,Prices,0.8658536585365854,82
+Bridge + lasso,-1,D7F5,CPI services index,Prices,0.8414634146341463,82
+Bridge + lasso,-1,IUMABEDR,Bank Rate,Money and markets,0.8292682926829268,82
+Bridge + lasso,-1,CZBH,RPI inflation (annual),Prices,0.8292682926829268,82
+Bridge + lasso,-1,XUMAUSS,Sterling-dollar rate,Money and markets,0.8048780487804879,82
+Bridge + lasso,-1,IKBF,Services imports volume,Trade,0.7804878048780488,82
+Bridge + lasso,-1,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.7682926829268293,82
+Bridge + lasso,-1,DKO8,Core CPI inflation (annual),Prices,0.7682926829268293,82
+Bridge + lasso,-1,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.7073170731707317,82
+Bridge + lasso,-1,YBUS,Total weekly hours worked,Labour market,0.6951219512195121,82
+Bridge + lasso,-1,MGSX,Unemployment rate,Labour market,0.6951219512195121,82
+Bridge + lasso,-1,ENDZ,Car exports,Trade,0.6951219512195121,82
+Bridge + lasso,-1,LF24,Employment rate (16-64),Labour market,0.6585365853658537,82
+Bridge + lasso,-1,XUMABK67,Sterling effective exchange rate,Money and markets,0.6463414634146342,82
+Bridge + lasso,-1,ENGT,Car imports,Trade,0.6341463414634146,82
+Bridge + lasso,-1,J5EK,Retail sales volume,Retail,0.6341463414634146,82
+Bridge + lasso,-1,KAB9,Average weekly earnings,Labour market,0.5975609756097561,82
+Bridge + lasso,-1,J5DZ,Online (non-store) retail,Retail,0.4268292682926829,82
+Bridge + lasso,-1,ENEI,Capital goods exports,Trade,0.36585365853658536,82
+Bridge + lasso,-1,D7G7,CPI inflation (annual),Prices,0.36585365853658536,82
+Bridge + lasso,-1,LF2S,Inactivity rate (16-64),Labour market,0.34146341463414637,82
+Bridge + lasso,-1,YCBW,Workers with second jobs,Labour market,0.32926829268292684,82
+Bridge + lasso,-1,BQKO,Goods imports volume,Trade,0.2926829268292683,82
+Bridge + lasso,-1,ENGW,Capital goods imports,Trade,0.25609756097560976,82
+Bridge + lasso,-1,BQKQ,Goods exports volume,Trade,0.24390243902439024,82
+Bridge + lasso,-1,JO5A,Automotive fuel sales,Retail,0.18292682926829268,82
+Bridge + lasso,-1,IKBE,Services exports volume,Trade,0.17073170731707318,82
+Bridge + lasso,-1,BOXV,Goods exports ex oil and erratics,Trade,0.17073170731707318,82
+Bridge + lasso,-1,BPIV,Goods imports ex oil and erratics,Trade,0.15853658536585366,82
+Bridge + lasso,-1,RT_IOM,Index of Manufacturing (real time),Output (real time),0.14634146341463414,82
+Bridge + lasso,-1,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECY4,Production,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECY3,Agriculture,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECYC,Services,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECY9,Construction,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECY8,Water and waste,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Bridge + lasso,-1,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,-1,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,-1,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,-1,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,-1,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,-1,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,-1,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,-1,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,-1,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,-1,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,-1,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,-1,ECYP,Administrative services,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECYK,Real estate,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECYI,Information and communication,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECYR,Education,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECYQ,Public administration,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECYS,Health and social work,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Bridge + lasso,-1,ECYU,Other services,Output (latest vintage),0.0,82
+Bridge + lasso,-1,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,-1,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,-1,GDP_q1,"GDP growth, quarter t-1",GDP,0.0,82
+Bridge + lasso,0,RT_IOS,Index of Services (real time),Output (real time),1.0,82
+Bridge + lasso,0,RT_IOP,Index of Production (real time),Output (real time),1.0,82
+Bridge + lasso,0,GDP_q2,"GDP growth, quarter t-2",GDP,1.0,82
+Bridge + lasso,0,GDP_q1,"GDP growth, quarter t-1",GDP,1.0,82
+Bridge + lasso,0,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.8780487804878049,82
+Bridge + lasso,0,IUMAMNPY,10-year gilt yield,Money and markets,0.8414634146341463,82
+Bridge + lasso,0,IUMSNPY,5-year gilt yield,Money and markets,0.7926829268292683,82
+Bridge + lasso,0,D7F5,CPI services index,Prices,0.7804878048780488,82
+Bridge + lasso,0,D7BT,CPI index,Prices,0.7682926829268293,82
+Bridge + lasso,0,BQKQ,Goods exports volume,Trade,0.6951219512195121,82
+Bridge + lasso,0,IUMABEDR,Bank Rate,Money and markets,0.6951219512195121,82
+Bridge + lasso,0,LF2S,Inactivity rate (16-64),Labour market,0.6829268292682927,82
+Bridge + lasso,0,AP2Y,Vacancies,Labour market,0.6219512195121951,82
+Bridge + lasso,0,LPMAUYN,M4 money supply,Money and markets,0.6097560975609756,82
+Bridge + lasso,0,J467,Retail sales ex fuel,Retail,0.5609756097560976,82
+Bridge + lasso,0,D7G7,CPI inflation (annual),Prices,0.5365853658536586,82
+Bridge + lasso,0,MGSX,Unemployment rate,Labour market,0.524390243902439,82
+Bridge + lasso,0,YBUS,Total weekly hours worked,Labour market,0.4878048780487805,82
+Bridge + lasso,0,ENEI,Capital goods exports,Trade,0.4878048780487805,82
+Bridge + lasso,0,ENDZ,Car exports,Trade,0.4878048780487805,82
+Bridge + lasso,0,IKBF,Services imports volume,Trade,0.47560975609756095,82
+Bridge + lasso,0,MGRZ,Employment level,Labour market,0.47560975609756095,82
+Bridge + lasso,0,DKO8,Core CPI inflation (annual),Prices,0.4634146341463415,82
+Bridge + lasso,0,XUMAUSS,Sterling-dollar rate,Money and markets,0.4634146341463415,82
+Bridge + lasso,0,BQKO,Goods imports volume,Trade,0.4634146341463415,82
+Bridge + lasso,0,J5EK,Retail sales volume,Retail,0.4634146341463415,82
+Bridge + lasso,0,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.43902439024390244,82
+Bridge + lasso,0,CZBH,RPI inflation (annual),Prices,0.43902439024390244,82
+Bridge + lasso,0,ENGT,Car imports,Trade,0.4146341463414634,82
+Bridge + lasso,0,LF24,Employment rate (16-64),Labour market,0.4146341463414634,82
+Bridge + lasso,0,XUMABK67,Sterling effective exchange rate,Money and markets,0.4024390243902439,82
+Bridge + lasso,0,ENGW,Capital goods imports,Trade,0.35365853658536583,82
+Bridge + lasso,0,JO5A,Automotive fuel sales,Retail,0.34146341463414637,82
+Bridge + lasso,0,KAB9,Average weekly earnings,Labour market,0.34146341463414637,82
+Bridge + lasso,0,YCBW,Workers with second jobs,Labour market,0.32926829268292684,82
+Bridge + lasso,0,J5DZ,Online (non-store) retail,Retail,0.2804878048780488,82
+Bridge + lasso,0,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.25609756097560976,82
+Bridge + lasso,0,RT_IOM,Index of Manufacturing (real time),Output (real time),0.24390243902439024,82
+Bridge + lasso,0,BOXV,Goods exports ex oil and erratics,Trade,0.23170731707317074,82
+Bridge + lasso,0,BPIV,Goods imports ex oil and erratics,Trade,0.2073170731707317,82
+Bridge + lasso,0,IKBE,Services exports volume,Trade,0.10975609756097561,82
+Bridge + lasso,0,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Bridge + lasso,0,ECY4,Production,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECY3,Agriculture,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECYC,Services,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECY9,Construction,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECY8,Water and waste,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Bridge + lasso,0,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,0,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,0,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,0,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,0,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,0,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,0,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,0,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,0,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,0,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,0,ECYP,Administrative services,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECYK,Real estate,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECYI,Information and communication,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECYR,Education,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECYQ,Public administration,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECYS,Health and social work,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Bridge + lasso,0,ECYU,Other services,Output (latest vintage),0.0,82
+Bridge + lasso,0,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,0,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,0,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,1,RT_IOS,Index of Services (real time),Output (real time),1.0,82
+Bridge + lasso,1,RT_IOP,Index of Production (real time),Output (real time),1.0,82
+Bridge + lasso,1,GDP_q2,"GDP growth, quarter t-2",GDP,1.0,82
+Bridge + lasso,1,GDP_q1,"GDP growth, quarter t-1",GDP,1.0,82
+Bridge + lasso,1,IUMAMNPY,10-year gilt yield,Money and markets,0.8780487804878049,82
+Bridge + lasso,1,IUMABEDR,Bank Rate,Money and markets,0.8536585365853658,82
+Bridge + lasso,1,LPMAUYN,M4 money supply,Money and markets,0.8292682926829268,82
+Bridge + lasso,1,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.8170731707317073,82
+Bridge + lasso,1,AP2Y,Vacancies,Labour market,0.8048780487804879,82
+Bridge + lasso,1,XUMAUSS,Sterling-dollar rate,Money and markets,0.7804878048780488,82
+Bridge + lasso,1,BQKQ,Goods exports volume,Trade,0.7560975609756098,82
+Bridge + lasso,1,J5EK,Retail sales volume,Retail,0.7317073170731707,82
+Bridge + lasso,1,MGRZ,Employment level,Labour market,0.7317073170731707,82
+Bridge + lasso,1,ENEI,Capital goods exports,Trade,0.7195121951219512,82
+Bridge + lasso,1,MGSX,Unemployment rate,Labour market,0.7195121951219512,82
+Bridge + lasso,1,D7F5,CPI services index,Prices,0.7073170731707317,82
+Bridge + lasso,1,IUMSNPY,5-year gilt yield,Money and markets,0.6707317073170732,82
+Bridge + lasso,1,J467,Retail sales ex fuel,Retail,0.6463414634146342,82
+Bridge + lasso,1,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.6097560975609756,82
+Bridge + lasso,1,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.6097560975609756,82
+Bridge + lasso,1,ENGW,Capital goods imports,Trade,0.5975609756097561,82
+Bridge + lasso,1,LF2S,Inactivity rate (16-64),Labour market,0.5853658536585366,82
+Bridge + lasso,1,D7BT,CPI index,Prices,0.5853658536585366,82
+Bridge + lasso,1,D7G7,CPI inflation (annual),Prices,0.5853658536585366,82
+Bridge + lasso,1,LF24,Employment rate (16-64),Labour market,0.5609756097560976,82
+Bridge + lasso,1,CZBH,RPI inflation (annual),Prices,0.5487804878048781,82
+Bridge + lasso,1,ENDZ,Car exports,Trade,0.5121951219512195,82
+Bridge + lasso,1,KAB9,Average weekly earnings,Labour market,0.4878048780487805,82
+Bridge + lasso,1,DKO8,Core CPI inflation (annual),Prices,0.47560975609756095,82
+Bridge + lasso,1,XUMABK67,Sterling effective exchange rate,Money and markets,0.4634146341463415,82
+Bridge + lasso,1,JO5A,Automotive fuel sales,Retail,0.4146341463414634,82
+Bridge + lasso,1,IKBF,Services imports volume,Trade,0.4024390243902439,82
+Bridge + lasso,1,J5DZ,Online (non-store) retail,Retail,0.36585365853658536,82
+Bridge + lasso,1,BQKO,Goods imports volume,Trade,0.36585365853658536,82
+Bridge + lasso,1,YBUS,Total weekly hours worked,Labour market,0.35365853658536583,82
+Bridge + lasso,1,IKBE,Services exports volume,Trade,0.34146341463414637,82
+Bridge + lasso,1,ENGT,Car imports,Trade,0.32926829268292684,82
+Bridge + lasso,1,YCBW,Workers with second jobs,Labour market,0.3048780487804878,82
+Bridge + lasso,1,BPIV,Goods imports ex oil and erratics,Trade,0.21951219512195122,82
+Bridge + lasso,1,RT_IOM,Index of Manufacturing (real time),Output (real time),0.10975609756097561,82
+Bridge + lasso,1,BOXV,Goods exports ex oil and erratics,Trade,0.08536585365853659,82
+Bridge + lasso,1,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Bridge + lasso,1,ECY4,Production,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECY3,Agriculture,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECYC,Services,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECY9,Construction,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECY8,Water and waste,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Bridge + lasso,1,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,1,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,1,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,1,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,1,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,1,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,1,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,1,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,1,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,1,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,1,ECYP,Administrative services,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECYK,Real estate,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECYI,Information and communication,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECYR,Education,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECYQ,Public administration,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECYS,Health and social work,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Bridge + lasso,1,ECYU,Other services,Output (latest vintage),0.0,82
+Bridge + lasso,1,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,1,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,1,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,2,RT_IOS,Index of Services (real time),Output (real time),1.0,82
+Bridge + lasso,2,RT_IOP,Index of Production (real time),Output (real time),1.0,82
+Bridge + lasso,2,GDP_q2,"GDP growth, quarter t-2",GDP,1.0,82
+Bridge + lasso,2,GDP_q1,"GDP growth, quarter t-1",GDP,1.0,82
+Bridge + lasso,2,XUMAUSS,Sterling-dollar rate,Money and markets,0.7073170731707317,82
+Bridge + lasso,2,XUMABK67,Sterling effective exchange rate,Money and markets,0.573170731707317,82
+Bridge + lasso,2,LPMAUYN,M4 money supply,Money and markets,0.5609756097560976,82
+Bridge + lasso,2,D7F5,CPI services index,Prices,0.5487804878048781,82
+Bridge + lasso,2,IUMAMNPY,10-year gilt yield,Money and markets,0.5365853658536586,82
+Bridge + lasso,2,DKO8,Core CPI inflation (annual),Prices,0.524390243902439,82
+Bridge + lasso,2,J5EK,Retail sales volume,Retail,0.5,82
+Bridge + lasso,2,J467,Retail sales ex fuel,Retail,0.4878048780487805,82
+Bridge + lasso,2,JO5A,Automotive fuel sales,Retail,0.4878048780487805,82
+Bridge + lasso,2,LF2S,Inactivity rate (16-64),Labour market,0.4878048780487805,82
+Bridge + lasso,2,MGSX,Unemployment rate,Labour market,0.47560975609756095,82
+Bridge + lasso,2,IUMSNPY,5-year gilt yield,Money and markets,0.47560975609756095,82
+Bridge + lasso,2,YCBW,Workers with second jobs,Labour market,0.4634146341463415,82
+Bridge + lasso,2,IKBF,Services imports volume,Trade,0.45121951219512196,82
+Bridge + lasso,2,CZBH,RPI inflation (annual),Prices,0.4146341463414634,82
+Bridge + lasso,2,J5DZ,Online (non-store) retail,Retail,0.4146341463414634,82
+Bridge + lasso,2,ENGW,Capital goods imports,Trade,0.4024390243902439,82
+Bridge + lasso,2,AP2Y,Vacancies,Labour market,0.4024390243902439,82
+Bridge + lasso,2,BQKO,Goods imports volume,Trade,0.3902439024390244,82
+Bridge + lasso,2,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.3780487804878049,82
+Bridge + lasso,2,MGRZ,Employment level,Labour market,0.3780487804878049,82
+Bridge + lasso,2,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.3780487804878049,82
+Bridge + lasso,2,IUMABEDR,Bank Rate,Money and markets,0.35365853658536583,82
+Bridge + lasso,2,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.32926829268292684,82
+Bridge + lasso,2,D7G7,CPI inflation (annual),Prices,0.32926829268292684,82
+Bridge + lasso,2,ENGT,Car imports,Trade,0.32926829268292684,82
+Bridge + lasso,2,YBUS,Total weekly hours worked,Labour market,0.3048780487804878,82
+Bridge + lasso,2,LF24,Employment rate (16-64),Labour market,0.3048780487804878,82
+Bridge + lasso,2,D7BT,CPI index,Prices,0.3048780487804878,82
+Bridge + lasso,2,IKBE,Services exports volume,Trade,0.2804878048780488,82
+Bridge + lasso,2,BPIV,Goods imports ex oil and erratics,Trade,0.2804878048780488,82
+Bridge + lasso,2,ENEI,Capital goods exports,Trade,0.2804878048780488,82
+Bridge + lasso,2,BQKQ,Goods exports volume,Trade,0.25609756097560976,82
+Bridge + lasso,2,BOXV,Goods exports ex oil and erratics,Trade,0.24390243902439024,82
+Bridge + lasso,2,KAB9,Average weekly earnings,Labour market,0.18292682926829268,82
+Bridge + lasso,2,ENDZ,Car exports,Trade,0.13414634146341464,82
+Bridge + lasso,2,RT_IOM,Index of Manufacturing (real time),Output (real time),0.12195121951219512,82
+Bridge + lasso,2,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Bridge + lasso,2,ECY4,Production,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECY3,Agriculture,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECYC,Services,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECY9,Construction,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECY8,Water and waste,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Bridge + lasso,2,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,2,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,2,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,2,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,2,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,2,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,2,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,2,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,2,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,2,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,2,ECYP,Administrative services,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECYK,Real estate,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECYI,Information and communication,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECYR,Education,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECYQ,Public administration,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECYS,Health and social work,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Bridge + lasso,2,ECYU,Other services,Output (latest vintage),0.0,82
+Bridge + lasso,2,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,2,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,2,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Bridge + lasso,3,RT_IOS,Index of Services (real time),Output (real time),1.0,33
+Bridge + lasso,3,RT_IOP,Index of Production (real time),Output (real time),1.0,33
+Bridge + lasso,3,GDP_q2,"GDP growth, quarter t-2",GDP,1.0,33
+Bridge + lasso,3,GDP_q1,"GDP growth, quarter t-1",GDP,1.0,33
+Bridge + lasso,3,RT_IOM,Index of Manufacturing (real time),Output (real time),0.9696969696969697,33
+Bridge + lasso,3,XUMAUSS,Sterling-dollar rate,Money and markets,0.9696969696969697,33
+Bridge + lasso,3,DKO8,Core CPI inflation (annual),Prices,0.8787878787878788,33
+Bridge + lasso,3,LPMAUYN,M4 money supply,Money and markets,0.8787878787878788,33
+Bridge + lasso,3,J5EK,Retail sales volume,Retail,0.8181818181818182,33
+Bridge + lasso,3,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.696969696969697,33
+Bridge + lasso,3,XUMABK67,Sterling effective exchange rate,Money and markets,0.5454545454545454,33
+Bridge + lasso,3,D7BT,CPI index,Prices,0.5151515151515151,33
+Bridge + lasso,3,YCBW,Workers with second jobs,Labour market,0.48484848484848486,33
+Bridge + lasso,3,ENDZ,Car exports,Trade,0.45454545454545453,33
+Bridge + lasso,3,D7F5,CPI services index,Prices,0.45454545454545453,33
+Bridge + lasso,3,J5DZ,Online (non-store) retail,Retail,0.3939393939393939,33
+Bridge + lasso,3,BPIV,Goods imports ex oil and erratics,Trade,0.18181818181818182,33
+Bridge + lasso,3,JO5A,Automotive fuel sales,Retail,0.12121212121212122,33
+Bridge + lasso,3,MGRZ,Employment level,Labour market,0.09090909090909091,33
+Bridge + lasso,3,CZBH,RPI inflation (annual),Prices,0.06060606060606061,33
+Bridge + lasso,3,YBUS,Total weekly hours worked,Labour market,0.030303030303030304,33
+Bridge + lasso,3,ENEI,Capital goods exports,Trade,0.030303030303030304,33
+Bridge + lasso,3,ENGW,Capital goods imports,Trade,0.030303030303030304,33
+Bridge + lasso,3,J467,Retail sales ex fuel,Retail,0.030303030303030304,33
+Bridge + lasso,3,BQKQ,Goods exports volume,Trade,0.030303030303030304,33
+Bridge + lasso,3,BQKO,Goods imports volume,Trade,0.030303030303030304,33
+Bridge + lasso,3,IUMAMNPY,10-year gilt yield,Money and markets,0.030303030303030304,33
+Bridge + lasso,3,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.030303030303030304,33
+Bridge + lasso,3,KAB9,Average weekly earnings,Labour market,0.030303030303030304,33
+Bridge + lasso,3,LF2S,Inactivity rate (16-64),Labour market,0.030303030303030304,33
+Bridge + lasso,3,LF24,Employment rate (16-64),Labour market,0.030303030303030304,33
+Bridge + lasso,3,MGSX,Unemployment rate,Labour market,0.030303030303030304,33
+Bridge + lasso,3,ENGT,Car imports,Trade,0.030303030303030304,33
+Bridge + lasso,3,IUMABEDR,Bank Rate,Money and markets,0.030303030303030304,33
+Bridge + lasso,3,IKBE,Services exports volume,Trade,0.030303030303030304,33
+Bridge + lasso,3,ECYC,Services,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,33
+Bridge + lasso,3,ECY9,Construction,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECY8,Water and waste,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECY7,Electricity and gas,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECY6,Manufacturing,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECY5,Mining and quarrying,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECY4,Production,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECY3,Agriculture,Output (latest vintage),0.0,33
+Bridge + lasso,3,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,33
+Bridge + lasso,3,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,33
+Bridge + lasso,3,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,33
+Bridge + lasso,3,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,33
+Bridge + lasso,3,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,33
+Bridge + lasso,3,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,33
+Bridge + lasso,3,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,33
+Bridge + lasso,3,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,33
+Bridge + lasso,3,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,33
+Bridge + lasso,3,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,33
+Bridge + lasso,3,ECYS,Health and social work,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECYT,Arts and recreation,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECYU,Other services,Output (latest vintage),0.0,33
+Bridge + lasso,3,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,33
+Bridge + lasso,3,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,33
+Bridge + lasso,3,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,33
+Bridge + lasso,3,ECYP,Administrative services,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECYL,Professional and scientific,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECYK,Real estate,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECYJ,Finance and insurance,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECYI,Information and communication,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECYH,Accommodation and food,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECYR,Education,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECYQ,Public administration,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECYG,Transport and storage,Output (latest vintage),0.0,33
+Bridge + lasso,3,ECYD,Wholesale and retail,Output (latest vintage),0.0,33
+Bridge + lasso,3,BOXV,Goods exports ex oil and erratics,Trade,0.0,33
+Bridge + lasso,3,IKBF,Services imports volume,Trade,0.0,33
+Bridge + lasso,3,AP2Y,Vacancies,Labour market,0.0,33
+Bridge + lasso,3,D7G7,CPI inflation (annual),Prices,0.0,33
+Bridge + lasso,3,IUMSNPY,5-year gilt yield,Money and markets,0.0,33
+Bridge + lasso,3,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.0,33
+Bridge + group lasso,-1,RT_IOS,Index of Services (real time),Output (real time),1.0,82
+Bridge + group lasso,-1,RT_IOP,Index of Production (real time),Output (real time),1.0,82
+Bridge + group lasso,-1,GDP_q2,"GDP growth, quarter t-2",GDP,1.0,82
+Bridge + group lasso,-1,J467,Retail sales ex fuel,Retail,1.0,82
+Bridge + group lasso,-1,LPMAUYN,M4 money supply,Money and markets,0.926829268292683,82
+Bridge + group lasso,-1,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.8902439024390244,82
+Bridge + group lasso,-1,IUMSNPY,5-year gilt yield,Money and markets,0.8902439024390244,82
+Bridge + group lasso,-1,MGRZ,Employment level,Labour market,0.8780487804878049,82
+Bridge + group lasso,-1,IKBF,Services imports volume,Trade,0.8170731707317073,82
+Bridge + group lasso,-1,AP2Y,Vacancies,Labour market,0.8048780487804879,82
+Bridge + group lasso,-1,DKO8,Core CPI inflation (annual),Prices,0.7926829268292683,82
+Bridge + group lasso,-1,D7F5,CPI services index,Prices,0.7682926829268293,82
+Bridge + group lasso,-1,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.7317073170731707,82
+Bridge + group lasso,-1,CZBH,RPI inflation (annual),Prices,0.6951219512195121,82
+Bridge + group lasso,-1,IUMAMNPY,10-year gilt yield,Money and markets,0.6951219512195121,82
+Bridge + group lasso,-1,YBUS,Total weekly hours worked,Labour market,0.6829268292682927,82
+Bridge + group lasso,-1,ENDZ,Car exports,Trade,0.6219512195121951,82
+Bridge + group lasso,-1,D7BT,CPI index,Prices,0.6097560975609756,82
+Bridge + group lasso,-1,MGSX,Unemployment rate,Labour market,0.6097560975609756,82
+Bridge + group lasso,-1,XUMABK67,Sterling effective exchange rate,Money and markets,0.573170731707317,82
+Bridge + group lasso,-1,IUMABEDR,Bank Rate,Money and markets,0.573170731707317,82
+Bridge + group lasso,-1,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.573170731707317,82
+Bridge + group lasso,-1,XUMAUSS,Sterling-dollar rate,Money and markets,0.5487804878048781,82
+Bridge + group lasso,-1,ENGT,Car imports,Trade,0.45121951219512196,82
+Bridge + group lasso,-1,LF24,Employment rate (16-64),Labour market,0.3902439024390244,82
+Bridge + group lasso,-1,BQKO,Goods imports volume,Trade,0.35365853658536583,82
+Bridge + group lasso,-1,J5EK,Retail sales volume,Retail,0.32926829268292684,82
+Bridge + group lasso,-1,J5DZ,Online (non-store) retail,Retail,0.3048780487804878,82
+Bridge + group lasso,-1,LF2S,Inactivity rate (16-64),Labour market,0.25609756097560976,82
+Bridge + group lasso,-1,D7G7,CPI inflation (annual),Prices,0.21951219512195122,82
+Bridge + group lasso,-1,JO5A,Automotive fuel sales,Retail,0.1951219512195122,82
+Bridge + group lasso,-1,YCBW,Workers with second jobs,Labour market,0.1951219512195122,82
+Bridge + group lasso,-1,KAB9,Average weekly earnings,Labour market,0.18292682926829268,82
+Bridge + group lasso,-1,ENEI,Capital goods exports,Trade,0.14634146341463414,82
+Bridge + group lasso,-1,ENGW,Capital goods imports,Trade,0.12195121951219512,82
+Bridge + group lasso,-1,IKBE,Services exports volume,Trade,0.10975609756097561,82
+Bridge + group lasso,-1,BQKQ,Goods exports volume,Trade,0.08536585365853659,82
+Bridge + group lasso,-1,BPIV,Goods imports ex oil and erratics,Trade,0.036585365853658534,82
+Bridge + group lasso,-1,BOXV,Goods exports ex oil and erratics,Trade,0.024390243902439025,82
+Bridge + group lasso,-1,RT_IOM,Index of Manufacturing (real time),Output (real time),0.0,82
+Bridge + group lasso,-1,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECY4,Production,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECY3,Agriculture,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYC,Services,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECY9,Construction,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECY8,Water and waste,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,-1,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,-1,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,-1,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,-1,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,-1,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,-1,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,-1,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,-1,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,-1,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,-1,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYP,Administrative services,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYK,Real estate,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYI,Information and communication,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYR,Education,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYQ,Public administration,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYS,Health and social work,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,ECYU,Other services,Output (latest vintage),0.0,82
+Bridge + group lasso,-1,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,-1,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,-1,GDP_q1,"GDP growth, quarter t-1",GDP,0.0,82
+Bridge + group lasso,0,RT_IOS,Index of Services (real time),Output (real time),1.0,82
+Bridge + group lasso,0,RT_IOP,Index of Production (real time),Output (real time),1.0,82
+Bridge + group lasso,0,GDP_q2,"GDP growth, quarter t-2",GDP,1.0,82
+Bridge + group lasso,0,GDP_q1,"GDP growth, quarter t-1",GDP,1.0,82
+Bridge + group lasso,0,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.8414634146341463,82
+Bridge + group lasso,0,IUMSNPY,5-year gilt yield,Money and markets,0.8170731707317073,82
+Bridge + group lasso,0,D7BT,CPI index,Prices,0.7560975609756098,82
+Bridge + group lasso,0,LF2S,Inactivity rate (16-64),Labour market,0.6951219512195121,82
+Bridge + group lasso,0,LPMAUYN,M4 money supply,Money and markets,0.6585365853658537,82
+Bridge + group lasso,0,IKBF,Services imports volume,Trade,0.6463414634146342,82
+Bridge + group lasso,0,AP2Y,Vacancies,Labour market,0.6219512195121951,82
+Bridge + group lasso,0,D7F5,CPI services index,Prices,0.6097560975609756,82
+Bridge + group lasso,0,ENDZ,Car exports,Trade,0.5853658536585366,82
+Bridge + group lasso,0,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.5609756097560976,82
+Bridge + group lasso,0,MGSX,Unemployment rate,Labour market,0.5609756097560976,82
+Bridge + group lasso,0,BQKO,Goods imports volume,Trade,0.524390243902439,82
+Bridge + group lasso,0,LF24,Employment rate (16-64),Labour market,0.524390243902439,82
+Bridge + group lasso,0,MGRZ,Employment level,Labour market,0.524390243902439,82
+Bridge + group lasso,0,BQKQ,Goods exports volume,Trade,0.5121951219512195,82
+Bridge + group lasso,0,YBUS,Total weekly hours worked,Labour market,0.4878048780487805,82
+Bridge + group lasso,0,IUMAMNPY,10-year gilt yield,Money and markets,0.4878048780487805,82
+Bridge + group lasso,0,DKO8,Core CPI inflation (annual),Prices,0.4634146341463415,82
+Bridge + group lasso,0,ENGT,Car imports,Trade,0.3902439024390244,82
+Bridge + group lasso,0,D7G7,CPI inflation (annual),Prices,0.36585365853658536,82
+Bridge + group lasso,0,XUMABK67,Sterling effective exchange rate,Money and markets,0.35365853658536583,82
+Bridge + group lasso,0,XUMAUSS,Sterling-dollar rate,Money and markets,0.35365853658536583,82
+Bridge + group lasso,0,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.32926829268292684,82
+Bridge + group lasso,0,YCBW,Workers with second jobs,Labour market,0.3170731707317073,82
+Bridge + group lasso,0,IUMABEDR,Bank Rate,Money and markets,0.2926829268292683,82
+Bridge + group lasso,0,JO5A,Automotive fuel sales,Retail,0.2804878048780488,82
+Bridge + group lasso,0,CZBH,RPI inflation (annual),Prices,0.2804878048780488,82
+Bridge + group lasso,0,J5DZ,Online (non-store) retail,Retail,0.2804878048780488,82
+Bridge + group lasso,0,J5EK,Retail sales volume,Retail,0.2073170731707317,82
+Bridge + group lasso,0,ENEI,Capital goods exports,Trade,0.15853658536585366,82
+Bridge + group lasso,0,KAB9,Average weekly earnings,Labour market,0.12195121951219512,82
+Bridge + group lasso,0,BPIV,Goods imports ex oil and erratics,Trade,0.12195121951219512,82
+Bridge + group lasso,0,IKBE,Services exports volume,Trade,0.12195121951219512,82
+Bridge + group lasso,0,J467,Retail sales ex fuel,Retail,0.10975609756097561,82
+Bridge + group lasso,0,ENGW,Capital goods imports,Trade,0.10975609756097561,82
+Bridge + group lasso,0,RT_IOM,Index of Manufacturing (real time),Output (real time),0.0,82
+Bridge + group lasso,0,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECY4,Production,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECY3,Agriculture,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECYC,Services,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECY9,Construction,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECY8,Water and waste,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Bridge + group lasso,0,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,0,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,0,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,0,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,0,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,0,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,0,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,0,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,0,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,0,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,0,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,0,ECYP,Administrative services,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECYK,Real estate,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECYI,Information and communication,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECYR,Education,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECYQ,Public administration,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECYS,Health and social work,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Bridge + group lasso,0,ECYU,Other services,Output (latest vintage),0.0,82
+Bridge + group lasso,0,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,0,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,0,BOXV,Goods exports ex oil and erratics,Trade,0.0,82
+Bridge + group lasso,1,RT_IOS,Index of Services (real time),Output (real time),1.0,82
+Bridge + group lasso,1,RT_IOP,Index of Production (real time),Output (real time),1.0,82
+Bridge + group lasso,1,GDP_q2,"GDP growth, quarter t-2",GDP,1.0,82
+Bridge + group lasso,1,GDP_q1,"GDP growth, quarter t-1",GDP,1.0,82
+Bridge + group lasso,1,LPMAUYN,M4 money supply,Money and markets,0.7804878048780488,82
+Bridge + group lasso,1,IUMSNPY,5-year gilt yield,Money and markets,0.7682926829268293,82
+Bridge + group lasso,1,XUMAUSS,Sterling-dollar rate,Money and markets,0.7682926829268293,82
+Bridge + group lasso,1,LF24,Employment rate (16-64),Labour market,0.7195121951219512,82
+Bridge + group lasso,1,BQKQ,Goods exports volume,Trade,0.7073170731707317,82
+Bridge + group lasso,1,D7G7,CPI inflation (annual),Prices,0.6951219512195121,82
+Bridge + group lasso,1,IUMABEDR,Bank Rate,Money and markets,0.6707317073170732,82
+Bridge + group lasso,1,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.6463414634146342,82
+Bridge + group lasso,1,IKBF,Services imports volume,Trade,0.6463414634146342,82
+Bridge + group lasso,1,IUMAMNPY,10-year gilt yield,Money and markets,0.6463414634146342,82
+Bridge + group lasso,1,J467,Retail sales ex fuel,Retail,0.6341463414634146,82
+Bridge + group lasso,1,MGSX,Unemployment rate,Labour market,0.6097560975609756,82
+Bridge + group lasso,1,CZBH,RPI inflation (annual),Prices,0.6097560975609756,82
+Bridge + group lasso,1,D7F5,CPI services index,Prices,0.6097560975609756,82
+Bridge + group lasso,1,AP2Y,Vacancies,Labour market,0.5975609756097561,82
+Bridge + group lasso,1,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.5853658536585366,82
+Bridge + group lasso,1,ENGW,Capital goods imports,Trade,0.5365853658536586,82
+Bridge + group lasso,1,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.4878048780487805,82
+Bridge + group lasso,1,ENEI,Capital goods exports,Trade,0.47560975609756095,82
+Bridge + group lasso,1,ENDZ,Car exports,Trade,0.45121951219512196,82
+Bridge + group lasso,1,MGRZ,Employment level,Labour market,0.43902439024390244,82
+Bridge + group lasso,1,J5EK,Retail sales volume,Retail,0.43902439024390244,82
+Bridge + group lasso,1,JO5A,Automotive fuel sales,Retail,0.43902439024390244,82
+Bridge + group lasso,1,ENGT,Car imports,Trade,0.3780487804878049,82
+Bridge + group lasso,1,DKO8,Core CPI inflation (annual),Prices,0.3170731707317073,82
+Bridge + group lasso,1,D7BT,CPI index,Prices,0.3048780487804878,82
+Bridge + group lasso,1,LF2S,Inactivity rate (16-64),Labour market,0.3048780487804878,82
+Bridge + group lasso,1,YBUS,Total weekly hours worked,Labour market,0.3048780487804878,82
+Bridge + group lasso,1,IKBE,Services exports volume,Trade,0.25609756097560976,82
+Bridge + group lasso,1,KAB9,Average weekly earnings,Labour market,0.24390243902439024,82
+Bridge + group lasso,1,BQKO,Goods imports volume,Trade,0.18292682926829268,82
+Bridge + group lasso,1,J5DZ,Online (non-store) retail,Retail,0.18292682926829268,82
+Bridge + group lasso,1,YCBW,Workers with second jobs,Labour market,0.17073170731707318,82
+Bridge + group lasso,1,XUMABK67,Sterling effective exchange rate,Money and markets,0.17073170731707318,82
+Bridge + group lasso,1,BPIV,Goods imports ex oil and erratics,Trade,0.15853658536585366,82
+Bridge + group lasso,1,RT_IOM,Index of Manufacturing (real time),Output (real time),0.024390243902439025,82
+Bridge + group lasso,1,BOXV,Goods exports ex oil and erratics,Trade,0.024390243902439025,82
+Bridge + group lasso,1,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECY4,Production,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECY3,Agriculture,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECYC,Services,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECY9,Construction,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECY8,Water and waste,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Bridge + group lasso,1,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,1,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,1,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,1,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,1,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,1,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,1,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,1,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,1,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,1,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,1,ECYP,Administrative services,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECYK,Real estate,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECYI,Information and communication,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECYR,Education,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECYQ,Public administration,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECYS,Health and social work,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Bridge + group lasso,1,ECYU,Other services,Output (latest vintage),0.0,82
+Bridge + group lasso,1,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,1,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,1,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,RT_IOS,Index of Services (real time),Output (real time),1.0,82
+Bridge + group lasso,2,RT_IOP,Index of Production (real time),Output (real time),1.0,82
+Bridge + group lasso,2,GDP_q2,"GDP growth, quarter t-2",GDP,1.0,82
+Bridge + group lasso,2,GDP_q1,"GDP growth, quarter t-1",GDP,1.0,82
+Bridge + group lasso,2,XUMAUSS,Sterling-dollar rate,Money and markets,0.6341463414634146,82
+Bridge + group lasso,2,LPMAUYN,M4 money supply,Money and markets,0.6341463414634146,82
+Bridge + group lasso,2,LF2S,Inactivity rate (16-64),Labour market,0.5,82
+Bridge + group lasso,2,DKO8,Core CPI inflation (annual),Prices,0.5,82
+Bridge + group lasso,2,D7F5,CPI services index,Prices,0.4878048780487805,82
+Bridge + group lasso,2,JO5A,Automotive fuel sales,Retail,0.4878048780487805,82
+Bridge + group lasso,2,IUMSNPY,5-year gilt yield,Money and markets,0.47560975609756095,82
+Bridge + group lasso,2,IKBF,Services imports volume,Trade,0.45121951219512196,82
+Bridge + group lasso,2,ENEI,Capital goods exports,Trade,0.43902439024390244,82
+Bridge + group lasso,2,YCBW,Workers with second jobs,Labour market,0.43902439024390244,82
+Bridge + group lasso,2,IUMAMNPY,10-year gilt yield,Money and markets,0.43902439024390244,82
+Bridge + group lasso,2,J5EK,Retail sales volume,Retail,0.43902439024390244,82
+Bridge + group lasso,2,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.4268292682926829,82
+Bridge + group lasso,2,MGSX,Unemployment rate,Labour market,0.4146341463414634,82
+Bridge + group lasso,2,XUMABK67,Sterling effective exchange rate,Money and markets,0.3780487804878049,82
+Bridge + group lasso,2,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.3170731707317073,82
+Bridge + group lasso,2,ENGT,Car imports,Trade,0.2926829268292683,82
+Bridge + group lasso,2,BQKO,Goods imports volume,Trade,0.2926829268292683,82
+Bridge + group lasso,2,J5DZ,Online (non-store) retail,Retail,0.2926829268292683,82
+Bridge + group lasso,2,MGRZ,Employment level,Labour market,0.2804878048780488,82
+Bridge + group lasso,2,CZBH,RPI inflation (annual),Prices,0.2804878048780488,82
+Bridge + group lasso,2,IKBE,Services exports volume,Trade,0.25609756097560976,82
+Bridge + group lasso,2,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.25609756097560976,82
+Bridge + group lasso,2,J467,Retail sales ex fuel,Retail,0.24390243902439024,82
+Bridge + group lasso,2,IUMABEDR,Bank Rate,Money and markets,0.23170731707317074,82
+Bridge + group lasso,2,ENGW,Capital goods imports,Trade,0.23170731707317074,82
+Bridge + group lasso,2,AP2Y,Vacancies,Labour market,0.21951219512195122,82
+Bridge + group lasso,2,D7G7,CPI inflation (annual),Prices,0.2073170731707317,82
+Bridge + group lasso,2,YBUS,Total weekly hours worked,Labour market,0.15853658536585366,82
+Bridge + group lasso,2,BQKQ,Goods exports volume,Trade,0.12195121951219512,82
+Bridge + group lasso,2,ENDZ,Car exports,Trade,0.08536585365853659,82
+Bridge + group lasso,2,RT_IOM,Index of Manufacturing (real time),Output (real time),0.07317073170731707,82
+Bridge + group lasso,2,D7BT,CPI index,Prices,0.06097560975609756,82
+Bridge + group lasso,2,BOXV,Goods exports ex oil and erratics,Trade,0.036585365853658534,82
+Bridge + group lasso,2,LF24,Employment rate (16-64),Labour market,0.036585365853658534,82
+Bridge + group lasso,2,BPIV,Goods imports ex oil and erratics,Trade,0.024390243902439025,82
+Bridge + group lasso,2,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECY5,Mining and quarrying,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECY4,Production,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECY3,Agriculture,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECYC,Services,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECY9,Construction,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECY8,Water and waste,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECY7,Electricity and gas,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECY6,Manufacturing,Output (latest vintage),0.0,82
+Bridge + group lasso,2,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,ECYP,Administrative services,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECYL,Professional and scientific,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECYK,Real estate,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECYJ,Finance and insurance,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECYI,Information and communication,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECYH,Accommodation and food,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECYR,Education,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECYQ,Public administration,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECYG,Transport and storage,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECYD,Wholesale and retail,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECYS,Health and social work,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECYT,Arts and recreation,Output (latest vintage),0.0,82
+Bridge + group lasso,2,ECYU,Other services,Output (latest vintage),0.0,82
+Bridge + group lasso,2,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,82
+Bridge + group lasso,2,KAB9,Average weekly earnings,Labour market,0.0,82
+Bridge + group lasso,3,RT_IOS,Index of Services (real time),Output (real time),1.0,33
+Bridge + group lasso,3,RT_IOP,Index of Production (real time),Output (real time),1.0,33
+Bridge + group lasso,3,GDP_q2,"GDP growth, quarter t-2",GDP,1.0,33
+Bridge + group lasso,3,GDP_q1,"GDP growth, quarter t-1",GDP,1.0,33
+Bridge + group lasso,3,LPMAUYN,M4 money supply,Money and markets,0.9393939393939394,33
+Bridge + group lasso,3,XUMAUSS,Sterling-dollar rate,Money and markets,0.9090909090909091,33
+Bridge + group lasso,3,LPMVTVX,Mortgage approvals for house purchase,Money and markets,0.8787878787878788,33
+Bridge + group lasso,3,DKO8,Core CPI inflation (annual),Prices,0.8787878787878788,33
+Bridge + group lasso,3,JO5A,Automotive fuel sales,Retail,0.8484848484848485,33
+Bridge + group lasso,3,RT_IOM,Index of Manufacturing (real time),Output (real time),0.7575757575757576,33
+Bridge + group lasso,3,ENDZ,Car exports,Trade,0.5757575757575758,33
+Bridge + group lasso,3,YCBW,Workers with second jobs,Labour market,0.5757575757575758,33
+Bridge + group lasso,3,J5EK,Retail sales volume,Retail,0.5454545454545454,33
+Bridge + group lasso,3,D7F5,CPI services index,Prices,0.42424242424242425,33
+Bridge + group lasso,3,D7BT,CPI index,Prices,0.42424242424242425,33
+Bridge + group lasso,3,SPREAD,Term spread (10y gilt - Bank Rate),Money and markets,0.3939393939393939,33
+Bridge + group lasso,3,J5DZ,Online (non-store) retail,Retail,0.2727272727272727,33
+Bridge + group lasso,3,IUMABEDR,Bank Rate,Money and markets,0.2727272727272727,33
+Bridge + group lasso,3,XUMABK67,Sterling effective exchange rate,Money and markets,0.2727272727272727,33
+Bridge + group lasso,3,BPIV,Goods imports ex oil and erratics,Trade,0.24242424242424243,33
+Bridge + group lasso,3,MGSX,Unemployment rate,Labour market,0.18181818181818182,33
+Bridge + group lasso,3,LF2S,Inactivity rate (16-64),Labour market,0.18181818181818182,33
+Bridge + group lasso,3,CZBH,RPI inflation (annual),Prices,0.12121212121212122,33
+Bridge + group lasso,3,MGRZ,Employment level,Labour market,0.09090909090909091,33
+Bridge + group lasso,3,ENGT,Car imports,Trade,0.09090909090909091,33
+Bridge + group lasso,3,ENGW,Capital goods imports,Trade,0.09090909090909091,33
+Bridge + group lasso,3,IKBF,Services imports volume,Trade,0.09090909090909091,33
+Bridge + group lasso,3,IUMBV34,2-year fixed mortgage rate (75% LTV),Money and markets,0.09090909090909091,33
+Bridge + group lasso,3,ENEI,Capital goods exports,Trade,0.06060606060606061,33
+Bridge + group lasso,3,BQKO,Goods imports volume,Trade,0.030303030303030304,33
+Bridge + group lasso,3,YBUS,Total weekly hours worked,Labour market,0.030303030303030304,33
+Bridge + group lasso,3,BQKQ,Goods exports volume,Trade,0.030303030303030304,33
+Bridge + group lasso,3,ECYC,Services,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECY5,Mining and quarrying,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECY4,Production,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECY3,Agriculture,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECY2,Monthly GDP (GVA),Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECY9,Construction,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECY8,Water and waste,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECY7,Electricity and gas,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECY6,Manufacturing,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECYD,Wholesale and retail,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECYH,Accommodation and food,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECYG,Transport and storage,Output (latest vintage),0.0,33
+Bridge + group lasso,3,K23Z,Mfg: other and repair,Manufacturing detail (latest vintage),0.0,33
+Bridge + group lasso,3,K23T,Mfg: transport equipment,Manufacturing detail (latest vintage),0.0,33
+Bridge + group lasso,3,J467,Retail sales ex fuel,Retail,0.0,33
+Bridge + group lasso,3,K23B,"Mfg: rubber, plastics, minerals",Manufacturing detail (latest vintage),0.0,33
+Bridge + group lasso,3,K23G,Mfg: basic metals,Manufacturing detail (latest vintage),0.0,33
+Bridge + group lasso,3,K23N,Mfg: computers and electronics,Manufacturing detail (latest vintage),0.0,33
+Bridge + group lasso,3,K23P,Mfg: electrical equipment,Manufacturing detail (latest vintage),0.0,33
+Bridge + group lasso,3,K23R,Mfg: machinery,Manufacturing detail (latest vintage),0.0,33
+Bridge + group lasso,3,K22Z,Mfg: chemicals,Manufacturing detail (latest vintage),0.0,33
+Bridge + group lasso,3,K239,Mfg: pharmaceuticals,Manufacturing detail (latest vintage),0.0,33
+Bridge + group lasso,3,K22X,Mfg: coke and refined petroleum,Manufacturing detail (latest vintage),0.0,33
+Bridge + group lasso,3,ECYT,Arts and recreation,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECYU,Other services,Output (latest vintage),0.0,33
+Bridge + group lasso,3,K22B,"Mfg: food, drink, tobacco",Manufacturing detail (latest vintage),0.0,33
+Bridge + group lasso,3,K22P,Mfg: textiles and clothing,Manufacturing detail (latest vintage),0.0,33
+Bridge + group lasso,3,K22T,"Mfg: wood, paper, printing",Manufacturing detail (latest vintage),0.0,33
+Bridge + group lasso,3,ECYP,Administrative services,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECYL,Professional and scientific,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECYK,Real estate,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECYJ,Finance and insurance,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECYI,Information and communication,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECYS,Health and social work,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECYR,Education,Output (latest vintage),0.0,33
+Bridge + group lasso,3,ECYQ,Public administration,Output (latest vintage),0.0,33
+Bridge + group lasso,3,KAB9,Average weekly earnings,Labour market,0.0,33
+Bridge + group lasso,3,AP2Y,Vacancies,Labour market,0.0,33
+Bridge + group lasso,3,LF24,Employment rate (16-64),Labour market,0.0,33
+Bridge + group lasso,3,IKBE,Services exports volume,Trade,0.0,33
+Bridge + group lasso,3,BOXV,Goods exports ex oil and erratics,Trade,0.0,33
+Bridge + group lasso,3,IUMAMNPY,10-year gilt yield,Money and markets,0.0,33
+Bridge + group lasso,3,D7G7,CPI inflation (annual),Prices,0.0,33
+Bridge + group lasso,3,IUMSNPY,5-year gilt yield,Money and markets,0.0,33

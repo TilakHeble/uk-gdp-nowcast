@@ -1,0 +1,101 @@
+design,model,h,rmse
+"Real time, judged against first estimate (this project)",AR,-1,0.6294689605441918
+"Real time, judged against first estimate (this project)",AR,0,0.4950651372124383
+"Real time, judged against first estimate (this project)",AR,1,0.4852889688130774
+"Real time, judged against first estimate (this project)",AR,2,0.5036580167975516
+"Real time, judged against first estimate (this project)",AR,3,0.46838705122917196
+"Real time, judged against first estimate (this project)",Bridge,-1,0.5900446760070706
+"Real time, judged against first estimate (this project)",Bridge,0,0.4759243380084704
+"Real time, judged against first estimate (this project)",Bridge,1,0.4670747169648349
+"Real time, judged against first estimate (this project)",Bridge,2,0.3637347668326315
+"Real time, judged against first estimate (this project)",Bridge,3,0.32041999853674324
+"Real time, judged against first estimate (this project)",Ridge,-1,0.5586569685126478
+"Real time, judged against first estimate (this project)",Ridge,0,0.47685447232944606
+"Real time, judged against first estimate (this project)",Ridge,1,0.4839414737937659
+"Real time, judged against first estimate (this project)",Ridge,2,0.45284937366573874
+"Real time, judged against first estimate (this project)",Ridge,3,0.38259966856668415
+"Real time, judged against first estimate (this project)",Lasso,-1,0.5586014748355986
+"Real time, judged against first estimate (this project)",Lasso,0,0.528178819148978
+"Real time, judged against first estimate (this project)",Lasso,1,0.5222824552828693
+"Real time, judged against first estimate (this project)",Lasso,2,0.4984705595838318
+"Real time, judged against first estimate (this project)",Lasso,3,0.40509112451022156
+"Real time, judged against first estimate (this project)",Bridge + ridge,-1,0.6090013240355145
+"Real time, judged against first estimate (this project)",Bridge + ridge,0,0.514762192967953
+"Real time, judged against first estimate (this project)",Bridge + ridge,1,0.5099801112853837
+"Real time, judged against first estimate (this project)",Bridge + ridge,2,0.4116156168064784
+"Real time, judged against first estimate (this project)",Bridge + ridge,3,0.37215587498400354
+"Real time, judged against latest estimate",AR,-1,0.7334536825117934
+"Real time, judged against latest estimate",AR,0,0.6127159701444688
+"Real time, judged against latest estimate",AR,1,0.5716384703454014
+"Real time, judged against latest estimate",AR,2,0.5795290510712405
+"Real time, judged against latest estimate",AR,3,0.36581423014323616
+"Real time, judged against latest estimate",Bridge,-1,0.6826797201422311
+"Real time, judged against latest estimate",Bridge,0,0.5697066266690639
+"Real time, judged against latest estimate",Bridge,1,0.5186852711765112
+"Real time, judged against latest estimate",Bridge,2,0.4272828355790179
+"Real time, judged against latest estimate",Bridge,3,0.2552625341500269
+"Real time, judged against latest estimate",Ridge,-1,0.5824570021752918
+"Real time, judged against latest estimate",Ridge,0,0.5179047195168839
+"Real time, judged against latest estimate",Ridge,1,0.5213462717460463
+"Real time, judged against latest estimate",Ridge,2,0.4872999098598125
+"Real time, judged against latest estimate",Ridge,3,0.3040855866045822
+"Real time, judged against latest estimate",Lasso,-1,0.5859984373674759
+"Real time, judged against latest estimate",Lasso,0,0.5667692611075775
+"Real time, judged against latest estimate",Lasso,1,0.5685673253104081
+"Real time, judged against latest estimate",Lasso,2,0.5464764379854513
+"Real time, judged against latest estimate",Lasso,3,0.3020334377629405
+"Real time, judged against latest estimate",Bridge + ridge,-1,0.6202061360728758
+"Real time, judged against latest estimate",Bridge + ridge,0,0.5725050933928415
+"Real time, judged against latest estimate",Bridge + ridge,1,0.541454226026495
+"Real time, judged against latest estimate",Bridge + ridge,2,0.47352157758259145
+"Real time, judged against latest estimate",Bridge + ridge,3,0.2887963917408728
+"Revised output data, judged against first estimate",AR,-1,0.6294689605441918
+"Revised output data, judged against first estimate",AR,0,0.4950651372124383
+"Revised output data, judged against first estimate",AR,1,0.4852889688130774
+"Revised output data, judged against first estimate",AR,2,0.5036580167975516
+"Revised output data, judged against first estimate",AR,3,0.46838705122917196
+"Revised output data, judged against first estimate",Bridge,-1,0.5639728237802963
+"Revised output data, judged against first estimate",Bridge,0,0.4560302155140768
+"Revised output data, judged against first estimate",Bridge,1,0.47525405346085303
+"Revised output data, judged against first estimate",Bridge,2,0.44574664629884936
+"Revised output data, judged against first estimate",Bridge,3,0.34614763834923895
+"Revised output data, judged against first estimate",Ridge,-1,0.5559342550059589
+"Revised output data, judged against first estimate",Ridge,0,0.500966299878078
+"Revised output data, judged against first estimate",Ridge,1,0.48573183784900054
+"Revised output data, judged against first estimate",Ridge,2,0.4728134243435863
+"Revised output data, judged against first estimate",Ridge,3,0.4317673286613486
+"Revised output data, judged against first estimate",Lasso,-1,0.5467764376367151
+"Revised output data, judged against first estimate",Lasso,0,0.5317225523061317
+"Revised output data, judged against first estimate",Lasso,1,0.5452747659227845
+"Revised output data, judged against first estimate",Lasso,2,0.5337951425312962
+"Revised output data, judged against first estimate",Lasso,3,0.4868851275306458
+"Revised output data, judged against first estimate",Bridge + ridge,-1,0.5829371076155757
+"Revised output data, judged against first estimate",Bridge + ridge,0,0.46826205602301524
+"Revised output data, judged against first estimate",Bridge + ridge,1,0.46991470569939053
+"Revised output data, judged against first estimate",Bridge + ridge,2,0.46812411814457694
+"Revised output data, judged against first estimate",Bridge + ridge,3,0.4082603907663956
+"Conventional: revised data, trained and judged on latest estimate",AR,-1,0.7136434476530215
+"Conventional: revised data, trained and judged on latest estimate",AR,0,0.506601390561415
+"Conventional: revised data, trained and judged on latest estimate",AR,1,0.6289326509748961
+"Conventional: revised data, trained and judged on latest estimate",AR,2,0.6289326509748961
+"Conventional: revised data, trained and judged on latest estimate",AR,3,0.7488737156088395
+"Conventional: revised data, trained and judged on latest estimate",Bridge,-1,0.6555183039827869
+"Conventional: revised data, trained and judged on latest estimate",Bridge,0,0.49645308843602237
+"Conventional: revised data, trained and judged on latest estimate",Bridge,1,0.5918893135652697
+"Conventional: revised data, trained and judged on latest estimate",Bridge,2,0.3998108362461812
+"Conventional: revised data, trained and judged on latest estimate",Bridge,3,0.16880614452168682
+"Conventional: revised data, trained and judged on latest estimate",Ridge,-1,0.6621232714863933
+"Conventional: revised data, trained and judged on latest estimate",Ridge,0,0.5794682427396673
+"Conventional: revised data, trained and judged on latest estimate",Ridge,1,0.5537780497035978
+"Conventional: revised data, trained and judged on latest estimate",Ridge,2,0.4998420331807821
+"Conventional: revised data, trained and judged on latest estimate",Ridge,3,0.287882949597096
+"Conventional: revised data, trained and judged on latest estimate",Lasso,-1,0.6741291907704973
+"Conventional: revised data, trained and judged on latest estimate",Lasso,0,0.6250227405127424
+"Conventional: revised data, trained and judged on latest estimate",Lasso,1,0.588974069668822
+"Conventional: revised data, trained and judged on latest estimate",Lasso,2,0.546069165932895
+"Conventional: revised data, trained and judged on latest estimate",Lasso,3,0.23712976763550747
+"Conventional: revised data, trained and judged on latest estimate",Bridge + ridge,-1,0.6876483953482618
+"Conventional: revised data, trained and judged on latest estimate",Bridge + ridge,0,0.4809141418607269
+"Conventional: revised data, trained and judged on latest estimate",Bridge + ridge,1,0.5998348084711175
+"Conventional: revised data, trained and judged on latest estimate",Bridge + ridge,2,0.4249329849499211
+"Conventional: revised data, trained and judged on latest estimate",Bridge + ridge,3,0.22904613656642225
